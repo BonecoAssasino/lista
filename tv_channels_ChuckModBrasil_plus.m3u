@@ -1,0 +1,1101 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="24H A Vaca e o Frango" tvg-logo="https://i.imgur.com/T5EXxIw.jpg" group-title="CANAIS 24 HORAS",24H A Vaca e o Frango
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/29490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H Carangos e Motocas" tvg-logo="https://i.imgur.com/V7gTHW6.jpg?1" group-title="CANAIS 24 HORAS",24H Carangos e Motocas
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/29499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H Eu Sou o Maximo" tvg-logo="https://i.imgur.com/vFuHGDU.jpg" group-title="CANAIS 24 HORAS",24H Eu Sou o Maximo
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/29489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H Os Castores Pirados" tvg-logo="https://i.imgur.com/OXr9ZPr.png?1" group-title="CANAIS 24 HORAS",24H Os Castores Pirados
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/29491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H Peppa Pig HD" tvg-logo="https://i.imgur.com/spwv82U.jpg" group-title="CANAIS 24 HORAS",24H Peppa Pig HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H Pole Position" tvg-logo="https://i.imgur.com/Epb4Vpx.jpg" group-title="CANAIS 24 HORAS",24H Pole Position
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/29498.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="https://quinto-canal.com/wp-content/uploads/2017/03/Canal-AE.png" group-title="FILMES E SERIES",A&E SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45348.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://quinto-canal.com/wp-content/uploads/2017/03/Canal-AE.png" group-title="FILMES E SERIES",A&E HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45345.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD*" tvg-logo="https://quinto-canal.com/wp-content/uploads/2017/03/Canal-AE.png" group-title="FILMES E SERIES",A&E HD*
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45347.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD H265" tvg-logo="https://quinto-canal.com/wp-content/uploads/2017/03/Canal-AE.png" group-title="FILMES E SERIES",A&E FHD H265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIN USA" tvg-logo="https://i0.wp.com/thevpn.guru/wp-content/uploads/2018/06/How-to-watch-Adult-Swim-outside-the-US-.jpg?resize=777%2C259&ssl=1" group-title="CANAIS U.S.A",ADULT SWIN USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43172.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD " tvg-logo="https://spinoff.com.br/wp-content/uploads/AMC_logo_20131.png" group-title="FILMES E SERIES",AMC SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45351.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD " tvg-logo="https://spinoff.com.br/wp-content/uploads/AMC_logo_20131.png" group-title="FILMES E SERIES",AMC HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45350.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD  H.265 " tvg-logo="https://spinoff.com.br/wp-content/uploads/AMC_logo_20131.png" group-title="FILMES E SERIES",AMC FHD  H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45349.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="CANAIS 4K",ANIMAL PLANET 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44993.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45207.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45208.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET FHD DUAL" tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45209.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 FHD " tvg-logo="https://i.imgur.com/ZIoEeMr.png" group-title="VARIEDADES",ARTE 1 FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45470.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD " tvg-logo="https://i.imgur.com/ZIoEeMr.png" group-title="VARIEDADES",ARTE 1 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45471.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Axn.png" group-title="FILMES E SERIES",AXN SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45354.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Axn.png" group-title="FILMES E SERIES",AXN HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45353.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Axn.png" group-title="FILMES E SERIES",AXN FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45352.m3u8
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV SD " tvg-logo="https://i.imgur.com/BAK3HJw.png" group-title="INFANTIL",BABY TV SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44579.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND 4K dual audio" tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="CANAIS 4K",BAND 4K dual audio
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44983.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SD " tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="CANAIS ABERTOS",BAND SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45412.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD " tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="CANAIS ABERTOS",BAND HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45411.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND FHD DUAL" tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="CANAIS ABERTOS",BAND FHD DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45409.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS FHD " tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45370.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD " tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45371.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD " tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="ESPORTES",BAND SPORTS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45246.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD " tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="ESPORTES",BAND SPORTS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45245.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FHD  " tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="ESPORTES",BAND SPORTS FHD  
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 TELA 1" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB 20 TELA 1
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10 HD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 10 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10 SD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 10 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3 HD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 3 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3 SD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 3 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4 HD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 4 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4 SD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 4 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5 HD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 5 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5 SD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 5 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6 HD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 6 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6 SD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 6 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7 HD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 7 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7 SD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 7 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8 HD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 8 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8 SD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 8 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9 HD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 9 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9 SD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 9 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB FHD  2 " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB FHD  2 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB MOSAICO 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS HD USA" tvg-logo="https://archive.org/services/img/BeinSportsUsaHd" group-title="CANAIS U.S.A",BEINSPORTS HD USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43226.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD " tvg-logo="https://danceparadise.com.br/wp-content/uploads/2019/02/logo-bis-300.png" group-title="VARIEDADES",BIS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45445.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD " tvg-logo="https://danceparadise.com.br/wp-content/uploads/2019/02/logo-bis-300.png" group-title="VARIEDADES",BIS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45444.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD " tvg-logo="https://danceparadise.com.br/wp-content/uploads/2019/02/logo-bis-300.png" group-title="VARIEDADES",BIS FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG USA" tvg-logo="https://static1.squarespace.com/static/55d44221e4b0d900e229a919/55e15588e4b0569a2565ef31/55e2a82ae4b0b3777a259d08/1504478799051/Bloomberg-TV-News.png?format=1500w" group-title="CANAIS U.S.A",BLOOMBERG USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/42812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV SD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logo_boavontade.jpg" group-title="RELIGIOSOS",BOA VONTADE TV SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44582.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMBERANG SD " tvg-logo="https://i.imgur.com/lpSxAIj.png" group-title="INFANTIL",BOOMBERANG SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45316.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMBERANG HD " tvg-logo="https://i.imgur.com/lpSxAIj.png" group-title="INFANTIL",BOOMBERANG HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45315.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMBERANG FHD " tvg-logo="https://i.imgur.com/lpSxAIj.png" group-title="INFANTIL",BOOMBERANG FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE HD " tvg-logo="https://i.imgur.com/vODNdGa.png" group-title="ESPORTES",CAMPEONATO CATARINENSE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 ARGENTINA HD " tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/04/Canal-26.jpg" group-title="CANAIS U.S.A",CANAL 26 ARGENTINA HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44731.m3u8
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD " tvg-logo="https://i.imgur.com/G3xv8ol.png" group-title="CANAIS ABERTOS",CANAL BRASIL SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45425.m3u8
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD " tvg-logo="https://i.imgur.com/G3xv8ol.png" group-title="CANAIS ABERTOS",CANAL BRASIL HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45424.m3u8
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://i.imgur.com/G3xv8ol.png" group-title="CANAIS ABERTOS",CANAL BRASIL FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI SD" tvg-logo="https://i.imgur.com/NLvsMDe.png" group-title="CANAIS ABERTOS",CANAL DO BOI SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45437.m3u8
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL RURAL SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-rural-1_m.png" group-title="CANAIS ABERTOS",CANAL RURAL SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45436.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://i.imgur.com/7zOGhVI.png" group-title="FILMES E SERIES",CANAL SONY SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45499.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://i.imgur.com/7zOGhVI.png" group-title="FILMES E SERIES",CANAL SONY FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45496.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD " tvg-logo="https://i.imgur.com/7zOGhVI.png" group-title="FILMES E SERIES",CANAL SONY HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45497.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY FHD H.265" tvg-logo="https://i.imgur.com/7zOGhVI.png" group-title="FILMES E SERIES",CANAL SONY FHD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45494.m3u8
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="CANÇAO NOVA SD " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcancaonova.png" group-title="RELIGIOSOS",CANÇAO NOVA SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44602.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON 4K" tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="CANAIS 4K",CARTOON 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44996.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="INFANTIL",CARTOON NETWORK SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45310.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON HD " tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="INFANTIL",CARTOON HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45309.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD " tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="INFANTIL",CARTOON NETWORK FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBN NEWS USA" tvg-logo="" group-title="CANAIS U.S.A",CBN NEWS USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45174.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD " tvg-logo="" group-title="CANAIS HBO MAX",CINEMAX SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45510.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD*" tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="CANAIS HBO MAX",CINEMAX SD*
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45508.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD " tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="CANAIS HBO MAX",CINEMAX HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45506.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD DUAL" tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="CANAIS HBO MAX",CINEMAX FHD DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMC CALIFORNIA MUSIC CHANNEL" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI3ZjE3MzEtOTI2YS00OWY5LWIzMTItOGJmNDg5NTdkOGI4XkEyXkFqcGdeQXVyNDQxNjU4NTg@._V1_.jpg" group-title="CANAIS U.S.A",CMC CALIFORNIA MUSIC CHANNEL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/42813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL SD " tvg-logo="https://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f_400x400.jpg" group-title="CANAIS U.S.A",CNN INTERNACIONAL SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/81I3XV5.jpg" group-title="NOTICIAS",CNN BRASIL FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46155.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="CANAIS 4K",COMBATE 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44984.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD " tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES",COMBATE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45249.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES",COMBATE SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45250.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES",COMBATE FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45248.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FHD H.265" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES",COMBATE FHD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45247.m3u8
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL SD " tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="VARIEDADES",COMEDY CENTRAL SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45450.m3u8
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD " tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="VARIEDADES",COMEDY CENTRAL HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45449.m3u8
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY FHD H.265" tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="VARIEDADES",COMEDY FHD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD " tvg-logo="https://i.imgur.com/ZUthoai.png" group-title="ESPORTES",COPA DO NORDESTE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD " tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="ESPORTES",DAZN HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45376.m3u8
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="CANAIS 4K",DISCOVERY CHANNEL 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44989.m3u8
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45212.m3u8
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45213.m3u8
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45211.m3u8
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL FHD H.265" tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45210.m3u8
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H SD " tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45226.m3u8
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H HD " tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45225.m3u8
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H FHD " tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45224.m3u8
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD " tvg-logo="https://i.imgur.com/Pv4zEEU.png" group-title="INFANTIL",DISCOVERY KIDS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45297.m3u8
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS SD " tvg-logo="https://i.imgur.com/Pv4zEEU.png" group-title="INFANTIL",DISCOVERY KIDS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45298.m3u8
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS FHD " tvg-logo="https://i.imgur.com/Pv4zEEU.png" group-title="INFANTIL",DISCOVERY KIDS FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45296.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE DUAL SD" tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE DUAL SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45486.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD " tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45485.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE FHD " tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/3/33/Discovery_Science_(2017-.n.v.).png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45487.m3u8
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD " tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45218.m3u8
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER DUAL" tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45216.m3u8
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45217.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD " tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45215.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45214.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD SD DUAL" tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD SD DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45221.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD " tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45220.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD FHD " tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45219.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD " tvg-logo="https://i.imgur.com/CmpWFRp.png" group-title="INFANTIL",DISNEY CHANNEL SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45301.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD " tvg-logo="https://i.imgur.com/CmpWFRp.png" group-title="INFANTIL",DISNEY CHANNEL HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45300.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://i.imgur.com/CmpWFRp.png" group-title="INFANTIL",DISNEY CHANNEL FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45299.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JR SD " tvg-logo="https://i.imgur.com/kFxCvdV.png" group-title="INFANTIL",DISNEY JR SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45304.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JR HD " tvg-logo="https://i.imgur.com/kFxCvdV.png" group-title="INFANTIL",DISNEY JR HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45303.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JR FHD" tvg-logo="https://i.imgur.com/kFxCvdV.png" group-title="INFANTIL",DISNEY JR FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45302.m3u8
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://i.imgur.com/L9ej6r1.png" group-title="INFANTIL",DISNEY XD SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45307.m3u8
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="DISNEY XD HD " tvg-logo="https://i.imgur.com/L9ej6r1.png" group-title="INFANTIL",DISNEY XD HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45306.m3u8
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="DISNEY XD FHD " tvg-logo="https://i.imgur.com/L9ej6r1.png" group-title="INFANTIL",DISNEY XD FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45305.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="DOG TV HD " tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="DOCUMENTÁRIOS",DOG TV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV FHD " tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="DOCUMENTÁRIOS",DOG TV FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW SD " tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" group-title="CANAIS U.S.A",DW SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44677.m3u8
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E!" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-e.jpg" group-title="VARIEDADES",E!
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46060.m3u8
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN  BRASIL HD " tvg-logo="https://i.imgur.com/cKIxu3s.png" group-title="ESPORTES",ESPN  BRASIL HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45259.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD " tvg-logo="https://i.imgur.com/86QLvF9.png" group-title="ESPORTES",ESPN 2 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45256.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="https://i.imgur.com/86QLvF9.png" group-title="ESPORTES",ESPN 2 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45257.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/86QLvF9.png" group-title="ESPORTES",ESPN 2 FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45255.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4K" tvg-logo="https://i.imgur.com/VlyX9nW.png" group-title="CANAIS 4K",ESPN 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45001.m3u8
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL SD " tvg-logo="https://i.imgur.com/cKIxu3s.png" group-title="ESPORTES",ESPN BRASIL SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45260.m3u8
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL FHD H.265" tvg-logo="https://i.imgur.com/cKIxu3s.png" group-title="ESPORTES",ESPN BRASIL FHD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45258.m3u8
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://i.imgur.com/vPzmOkP.png" group-title="ESPORTES",ESPN EXTRA SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45263.m3u8
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD " tvg-logo="https://i.imgur.com/vPzmOkP.png" group-title="ESPORTES",ESPN EXTRA HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45262.m3u8
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA FHD " tvg-logo="https://i.imgur.com/vPzmOkP.png" group-title="ESPORTES",ESPN EXTRA FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45261.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD " tvg-logo="https://i.imgur.com/VlyX9nW.png" group-title="ESPORTES",ESPN HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45253.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/VlyX9nW.png" group-title="ESPORTES",ESPN SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45254.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD " tvg-logo="https://i.imgur.com/VlyX9nW.png" group-title="ESPORTES",ESPN FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45252.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD H.265" tvg-logo="https://i.imgur.com/VlyX9nW.png" group-title="ESPORTES",ESPN FHD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO  AO VIVO " tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/esporte-interativo-logo-0.png" group-title="ESPORTES",ESPORTE INTERATIVO  AO VIVO 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL FHD DUAL" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/04/Eurochannel.png" group-title="CANAIS U.S.A",EUROCHANNEL FHD DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44542.m3u8
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/230px-FashionTV2019novo.png" group-title="VARIEDADES",FASHION TV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45526.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="FILM & ART SD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png" group-title="FILMES E SERIES",FILM & ART SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45414.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="FILM & ARTS FHD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png" group-title="FILMES E SERIES",FILM & ARTS FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45413.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV SD " tvg-logo="https://i.imgur.com/knViQD5.png" group-title="ESPORTES",FISH TV SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45285.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH HD " tvg-logo="https://i.imgur.com/knViQD5.png" group-title="ESPORTES",FISH HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45284.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD " tvg-logo="https://i.imgur.com/knViQD5.png" group-title="ESPORTES",FISH TV FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLATV" tvg-logo="https://i.imgur.com/lQy2ccB.jpg" group-title="ESPORTES",FLATV
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46032.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD " tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45453.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK SD " tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45454.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK FHD  H.265" tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK FHD  H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45451.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="FOX HD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/fox-logo_c39fc1d630b222a3afc46eeff6daccbe7e543943.jpeg" group-title="FILMES E SERIES",FOX HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45356.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="FOX FHD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/fox-logo_c39fc1d630b222a3afc46eeff6daccbe7e543943.jpeg" group-title="FILMES E SERIES",FOX FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45355.m3u8
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="FOX LIFE SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="FILMES E SERIES",FOX LIFE SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45360.m3u8
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="FOX LIFE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="FILMES E SERIES",FOX LIFE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45359.m3u8
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="FOX LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="FILMES E SERIES",FOX LIFE FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45358.m3u8
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 1 SD" tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/17/04/27/22/03/450031.jpg" group-title="FILMES E SERIES",FOX PREMIUM 1 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45364.m3u8
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/17/04/27/22/03/450031.jpg" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45363.m3u8
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 1 HD H.265 " tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/17/04/27/22/03/450031.jpg" group-title="FILMES E SERIES",FOX PREMIUM 1 HD H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45367.m3u8
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium2b.png" group-title="FILMES E SERIES",FOX PREMIUM 2 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45375.m3u8
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 HD " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium2b.png" group-title="FILMES E SERIES",FOX PREMIUM 2 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45374.m3u8
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium2b.png" group-title="FILMES E SERIES",FOX PREMIUM 2 FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45372.m3u8
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium2b.png" group-title="FILMES E SERIES",FOX PREMIUM 2 FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45362.m3u8
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 HD H.265" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium2b.png" group-title="FILMES E SERIES",FOX PREMIUM 2 HD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45373.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="FOX SD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/fox-logo_c39fc1d630b222a3afc46eeff6daccbe7e543943.jpeg" group-title="FILMES E SERIES",FOX SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45357.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 4K dual audio" tvg-logo="https://i.imgur.com/tAklHZ1.png" group-title="CANAIS 4K",FOX SPORTS 2 4K dual audio
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44998.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/tAklHZ1.png" group-title="ESPORTES",FOX SPORTS 2 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45270.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD  " tvg-logo="https://i.imgur.com/tAklHZ1.png" group-title="ESPORTES",FOX SPORTS 2 HD  
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45269.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 FHD " tvg-logo="https://i.imgur.com/tAklHZ1.png" group-title="ESPORTES",FOX SPORTS 2 FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45268.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS 4K" tvg-logo="https://i.imgur.com/0SvE6z8.png" group-title="CANAIS 4K",FOX SPORTS 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1200px-Conmebol_Libertadores_logo.svg.png" group-title="COPA LIBERTADORES",FOX SPORTS ARGENTINA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46020.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS SD " tvg-logo="https://i.imgur.com/0SvE6z8.png" group-title="ESPORTES",FOX SPORTS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45267.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS HD " tvg-logo="https://i.imgur.com/0SvE6z8.png" group-title="ESPORTES",FOX SPORTS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45266.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS FHD" tvg-logo="https://i.imgur.com/0SvE6z8.png" group-title="ESPORTES",FOX SPORTS FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45265.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS FHD H.265 " tvg-logo="https://i.imgur.com/0SvE6z8.png" group-title="ESPORTES",FOX SPORTS FHD H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45264.m3u8
+#EXTINF:-1 tvg-id="FoxSportsHDTV.br" tvg-name="FOX SPORTS NEW" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu_400x400.png" group-title="CANAIS U.S.A",FOX SPORTS NEW
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/29940.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD " tvg-logo="https://bengarney.files.wordpress.com/2008/12/fx1.png?w=300&h=300" group-title="FILMES E SERIES",FX SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45380.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://bengarney.files.wordpress.com/2008/12/fx1.png?w=300&h=300" group-title="FILMES E SERIES",FX HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45379.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD " tvg-logo="https://bengarney.files.wordpress.com/2008/12/fx1.png?w=300&h=300" group-title="FILMES E SERIES",FX FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45378.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD H.265" tvg-logo="https://bengarney.files.wordpress.com/2008/12/fx1.png?w=300&h=300" group-title="FILMES E SERIES",FX FHD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45377.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO 4K" tvg-logo="" group-title="CANAIS 4K",GLOBO 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44985.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.imgur.com/520c643.png" group-title="REDE GLOBO",GLOBO RJ SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44563.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RJ HD" tvg-logo="https://i.imgur.com/520c643.png" group-title="REDE GLOBO",GLOBO RJ HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44557.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO RJ FHD H.265 " tvg-logo="https://i.imgur.com/520c643.png" group-title="REDE GLOBO",GLOBO RJ FHD H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44552.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTER TV ALTO LITORAL*" tvg-logo="https://cdn.mitvstatic.com/channels/br_intertv-grande-minas_m.png" group-title="REDE GLOBO",GLOBO INTER TV ALTO LITORAL*
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46168.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP SD" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO SP SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44679.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO SP HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44558.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO HD SP" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO HD SP
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44686.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO SP FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44576.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO FHD SP H.265" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO FHD SP H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45029.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS SD " tvg-logo="https://i.imgur.com/p7B35hb.png" group-title="REDE GLOBO",GLOBO MINAS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45566.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.imgur.com/p7B35hb.png" group-title="REDE GLOBO",GLOBO MINAS HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45565.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS HD¹" tvg-logo="https://i.imgur.com/p7B35hb.png" group-title="REDE GLOBO",GLOBO MINAS HD¹
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45564.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS FHD" tvg-logo="https://i.imgur.com/p7B35hb.png" group-title="REDE GLOBO",GLOBO MINAS FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45563.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS SD " tvg-logo="https://i.imgur.com/9EpFFYP.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45578.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD " tvg-logo="https://i.imgur.com/9EpFFYP.png" group-title="REDE GLOBO",GLOBO EPTV RIBEIRAO PRETO SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45579.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV SAO CARLOS SD " tvg-logo="https://i.imgur.com/9EpFFYP.png" group-title="REDE GLOBO",GLOBO EPTV SAO CARLOS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45580.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA HD " tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",GLOBO BRASILIA HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45582.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA SD " tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",GLOBO BRASILIA SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45581.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MATO GROSSO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/77/Logotipo_da_TV_Centro_Am%C3%A9rica.png" group-title="REDE GLOBO",GLOBO MATO GROSSO FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45594.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MATO GROSSO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/77/Logotipo_da_TV_Centro_Am%C3%A9rica.png" group-title="REDE GLOBO",GLOBO MATO GROSSO HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45593.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV BAHIA SD " tvg-logo="data:image/jpeg;base64,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" group-title="REDE GLOBO",GLOBO TV BAHIA SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44696.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BAHIA" tvg-logo="https://i.imgur.com/1LSjbHj.png" group-title="REDE GLOBO",GLOBO BAHIA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45622.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO INTER TV CABUGI SD " tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUQEBIVFhAPFRAVFRUQEhUYFRYVFRUWFhUVFxUYHiggGBolHRUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGhAQGy0dHyUtListListMC0tLS0tLS0tKy0tLS4vLy0tLS0tLS0tNS0tMC0tLSs1LzUtKy0rKystK//AABEIAN0A5AMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAAAgMEBQYHAf/EAFAQAAEDAQIHCAwLBQgDAAAAAAEAAgMEESEFEjFBUWGxBhMycYGRocEHIiNCUlNygoOistEUM0NUYmNzkpOUwhUkRNLhFiU0NbPD4vB00/H/xAAaAQEAAwEBAQAAAAAAAAAAAAAAAQMEBQIG/8QAMBEBAAIBAgMFBwQDAQAAAAAAAAECAwQREkHwFCExUeETYZGhscHRIjKB4kJx8QX/2gAMAwEAAhEDEQA/AO4oQhAIQhAIQhAIQhAIQSoFRhaNtwJcfo5OfIgnoVBLheV3BAaOc85u6FGe2V/Cc48ZsHNkU7DSyStbwnAcZATBwjD42P77fes+MGHPYl/sr6XR/VBeftODx0f32pyKsjdwZGHyXtOwrOnA48L1f6pmTAduRzTxhBr0LEnBk7L4y4fZvI6Ll6zDNXEbHHGGiVt/OLCmw2qFnKTdZGbpmOYdI7ZvReOZX1NUskGNG4ObpaQVAdQhCAQhCAQhCAQhCAQhCAQhCAQhCAQhJe8AEk2AZSUClArMJtZ2re2foGQcZUKswi5/ax2tZpzn3BRooVIJ5pJOGbvBHB5s/KlR02lPsZYlEoPGsAyBBkSHFIJQLMqN9TJSSgkb6vRKohK8x02E4Sr1zgRYQCNBUDfF6Jk2CarBEb729qeccypZqKWB2OwuafCYbjx6eIq/EyXvoNxvB0oIuDN1tnaVTbPrGC7zm5uMcy1MUrXAOaQ5pvBaQQeIhYvCOCwe2jyZ2+5VuD6+WldbGbWHhRu4J/lOsdKbDpKFAwPhaOoZjMNjhwmHhNOvVrU9QBCEIBCEIBCEIBCEIBCF4TZecgQeSyBoLnGwDKVQVdU6U6GDI3rOte11WZXWDgNN2vWV5GxSCONPAIAQg9tSClJJQJKSUopJQJKQU4UgoEFIcE4UhykNkJJSykFB5avN8QUgoHmTqJX04PbDlHWlFeh6kUzS+F4liOK9ufSM4IzhbzAOGmVLLR2srbMdmjWNLTpWQnjUFsj4XiWI2PbzEZ2nSComB1FCg4HwmyojEjLjkc3O12cFTl5AhC8QeoQhAIQhAKnwzV2nem+d1NVjWVAjYXHNkGk5gs3vgAdI8gAWuc45NJJUwJETE+AucYS7LVLG4tp4ZJrO/tDGHittcRrsVPN2Xqk/F0sLfKke88wxVdTBe/hCJtEOwItXEn9lLCButgZ6B3W87EDsh4SPy0fmRxD2h1K2NFknyRxQ7YvFxI7scIu/iZh5EcJHqxhJG66tFzq2UeW0DZevXYMnnCd4duKSQuKf2iqXZasn01U3ZYEoYUnOWV54q6Qe3IVPYbeae52gtOhJLToK4yK2Q5Xzfn2f1R8Jf4c351nuU9ht5p7nYy06Cm3Bcg+EP8Kb86z3L34W8ZHy/nWe5Ow28zudbKbJXKf2jMMkkg460/oeF4cNztyVNnHUVR2EhOw280dzqpKSSuUv3VVeQVj/ADAXdLrCk/2prxf8ImPHDFZzuY5Ow384RvDqpSCuVO3b17bt8YdckcBPqtGxNjsjVrcvwd3oX9T2qJ0WSPJHFDqr1HmjtXOouyfOPjKWI+S+SM+sXKdS9lCnJsmp5WaTG9kgGuwhhVV9Pkr4wRaG0wNhI0s2PfvT7BINWZwGke9dIY8EAg2ggEEZCDkK5aJI5omzwvEkMoOK9tua4tIN7XDOCtXuIwnjMNM89tFey3Oy3JyE8xCzzD01KEIXkCEIQCEJMjw0FxyNBJ5EFJhufGeGDIy88Z/ptWC7LFcYsHljTYah7I/Nvc8coFnKtcxxcS45XEk8q512b5u50sel8r+ZuL+pe6R3xCJcqjH/AEqQ2K3vbfINp5hbsRCy3O0+UL9nWpUdMT8mD9nICea12xdbFtEM1rkAWZS9up7bR0kbFJjYDnjPmkeyBtT1PC5uaZnIbNjU+A3PILfrIm+9xWyllU5UcQfRb5srR7RtUmJrxkE3mSW9AalMYNMJHkyD2WDanm0zfAhPpZG+08L3xQj2rwMk+v8APp8ba5WeBcBT1J7m0YoyvlpYmsB0W32nULVody24prwJ6mMtbcWRiS0OGZz7O90C2/PoXQI4gABZY0AAAXAAZgMwWDUa+K/px98+bTSszG8sZg7cMwDuzg92cRwxsbz4pJ6FbN3IUvzdnnEnrV+X2ZE06Qrm21GW099pXbQpJdx9OfkI+QkbCqjCW4+OztW736Nj2+sOta8ylHwgpXPlr4Wk2hybCOBJYRa7e3N0x00Zs4xYCqzFfm3z0dIB0tcuuV1Kx4tbY12jMfcsJhvA7bS7FONnaHWAnXdlXRwa/fuyfFVesx3wzMgfoqPOJZ0EHaoj4Dnb9+ZnUQVZvpAPk4hZ4U7ifUeo8kQGTeB+K72muXQ4o5MvtlbLFZ4HLjO2ghQZALbA4nVG33EbFdlrfDZb9CJvXipiojc4ZZnD6LTZ0Fyi1iMqjfCfBI8s2bbFGmbrHIrWSkI+TPpXhv8AIoksfkDivPOAdqy5J3hZXI3fYerCWVdKT2oEVQwaDbvch5QWcy21NUmCZkw7w3jS03OHNauc9iF4FdI20nfKWoHK10b/ANJXRqpi5GSNrS1xPc6hG8OAcDaHAEHSDeEpUG4usx6cMPCgJZyZW9Bs5FfqlIQhCAUDDctkRGd5Des9AKnql3RPvY3yjsA60FfAFy3s0yj4RTNxi2yKU3C697ct/wBHWuqwhch7MU/79G3HDcWnZcWki979AOhe624Z3eMn7WShitzxHjaWnnLRtUyGmB+TYeKcdch2KLSut76nPGwt6d7btU6Jn0Kc8VRZ0b8Ni1U1EOXkmYTKegOVsUw+ze1w6IztU9tNIPnLfNcetqiwU4PyLPNqGdbnKwhpiMkL/MnZ1MWiuohjvexmw986Tz6ZjvaeVpNx+AmzP354Y6KM2WGmjZjPyi8DIMvNrVbBTyG4R1VpIAxZhn80LpdBSiKNsYJOILLXG0k5SSc99qrz6n9O1ebVosc5L8VvCPqfQShBXPdkgptycKQ5A05MvTzky9SIsxKqcIsxr86t5lXVQQZGrpwHW9oBfaXQseekWqLZZwXn0dLGNjgrytivUV7HkZKl2sSjF5LQVu0+o2rw2cnX45pMXrz+qs3mQ99UHiY4bHFQqihceFHOfLIaOmPrVrLTk5YZfPnZ1sVfPTfUjzqhnUQrp1EMNb2U1RSAZI2Dypxb0PaoM0H2I4+36nKznj+rgHHUj/3dSg1N2emHIX/pcs9tRDXjmZWvY0lswpCMcux2VTLgQ2+nkOcjwRmXUJhcuU9j2f8AvOl7o02yPFjGFovikb4LdK6zKFlm3FO7qYv2rDcNUYs74/GMtHGw+5x5luVzTAcuJVwnS/F++C3rC6WvErQhCFAFn8PO7q0aGDpLvctAs1hr48+S3rUwPIVxnsvP/vGzHYLIILnsxs78+If+hdmhXHOyx/mPDib3GG6UAnK/Ubl4v4PGT9rK0zvpUx8pgGxgVjDZopD6R42PChQEeMo+Vn/FWdMG+Mox6Nx/Sslskx16Ofekz16JlPG3waT8d/XIpzIWHvKX8yf50imbH42k/Af7lPYxnjaX8u9Vxqpjr0Z509p5dfBO3LUDHVMfc4O0JfbHPjOGKCQQ22++xdFWN3HtZv5sfA47274mFzHZW5zmWxtW3Dfjru6Wkx8FNnq8KLV4SrWl4U25KJTbigQ5NPTjimXlSGJlX1KmzFV9SUFZVBV1bTNNjiyMnJbLLicgvvVjUG9NVDG4oxjEL8szC8cgGQqvLbhpMqNTTjxzCmdAwd5Tfmf+ShVEbfBpPzDuqRXL2M8bS/l3qFUNj8bSfgP9ywTqp6/45fZ7Ry6+DP1AGik/Eef1lVtSddKOJuNtaVd1bW5paP8ACcP0qpqLPGUf3D/Kvdcsz16L6UmOvRI3Cv8A7ypO6RHuzRYyOw3gjKGDauvzZ+Vck3Ff5jSd0gPd47o2gHLmuXWpsp4ytuKe50MfghtfiyMd4MkZuy3OBXVVyafKOMbV1lerLAhCFAFnMPCyYHSxu1w9y0aoN0be3Y7SHDmI96mBHhK5L2Um/v8AbjU7e4xf4hwtyvyAvF3JpXWICua9ksltY137uAYmdtUusyOdcLZWAjnVOedqJrTinZlaPF+cUA4oQ89AKv6F4+dQejwe53+0oVJhGzLV0bdUNPvh6C9XVJhXRWzn7DBxs594XHyzaeXy/qvrparCmkOaqk83BnviU+N7vHzniwe0f7aj09Y4/LYQdxU7GbYwpsb3nNXnjdC39QWXeetnvs8RyS8FPcJBbJO4EOFklMxjcltpcGAjIrwlZ+LfAQd6rDYQe3nisNmkb5eFe2rsf+ffek18lOWnDJdqSSk4y8Ll0FQcUglBKQ4oEuKZeUtzlHlcpDMzlXVDlKneq6d6CM68qfSAgWh0jdcULZLdRxmmxQ4Wq2jhe0fFVN99sMsbWnQcUvByaQsWuvw4tvNZjpxSYke7x0/LQtOyNRJ5D85l5cG27IlYvc8d7XjifC79RUOepc35TCDfQxu2MK4kzPW35X+wieTP17xnq4/SYOcP9pZ2txfnNCfLp8Xa0LW1eFSMtZVt+1wfaOiBUtZhO3+MpjqnpN7POQxX4ptE+Hy/rLzbS1QdxcduEaXtqR1koPcHAOuBNwD9WhdMlOXlWE3GvL8I0/8AhHAOkONTv7cWRSG0NEztHgrcSldrSzvTr0Z7U4J2RHNxntaMrnMA5XALrC5dgqPHqYW/WMPI04x2LqKulAQhCgCqd0cVsYd4DhzG7bYrZM1kOOxzPCBHLm6UGYgcuedlVh+EQOEbXExPFshIa2xwy2EadIW+gdzhYLswQg/BX4mOQZWgW2ZQ06DoVeaN6S0aXvyxDMUVeRd8Ipo9UUYld0ukV1R1pP8AFVbvsqRrBzmFu1ZqhqS24vhj1AY7/ulzj6quIKskfG1T9UcbYhyHFZtXJtSN+vxH1dmuLfr1lfRVDjcG4RfxzRsHqyjYpjInHLT1Hpa5/U8qhgiLr95qHfb1b7Oh705iRjhwUjftZ8Y+tGF44N+vWUzh662Xm8WZaeMfaVr+thVzgWubZvJMLbOA2KcPJykiwgHXzrHRVEfeGiHkR4/svCmQ1pF4kjBGTe6SboIJVuG047cUKsul467N0XLwuVRgzC7ZBiknfABbbG9gdrGMBzBWGOuxW0WjeHFyY7Y7cNo2k6XJtzkgyJp8i9PBT3qLK9EkiiTSIETyKC82lLkdak4zWi11tmprnHmaCVFrRWN5eq0tadqxvJ2MhueMHKBLIGA3i2+88wXm8g5KeE/Z1r+piiPrNEjLL7n0k13Lcok1Qzv3UR8uEt9qRcjPactt+TsYdLwV2nxWj6d2amn9FXSfzBRJpnt+Twi3yalrx60yr+4u4ENE8/VzBp6GuSZacgW/B5W/+PVyWcl7AqODbr1hdGHrrcuqrCP4iuZ9pTskHqxv2qlrMIGz/Fwv1VNOIjsjUuSpLRw6xnlWTdciqq6tJFgmifbmnjEbj/p7FNaRM9fifqmcO3u+X3quex9GXV7Huji7nHUvEkLnFvxTm53uHf6Vs5nLF9jGH97nkMWIWUst4JIOM+MCwEW6c5WuqHrsaaNqONq42yTC23FQY9Vj5omOPK7tR0Fy6CsvuBo8WF8xyzOu8llw6S5ahWyzhCEKAIQhBl8LQb3MfBk7YcffdN/KsH2WqfGo2PstEUrCeJwLdpC6phqk3yO0cNl416R/3QFlaulZPE6GQWxytsI60mN42e8d+C0WcMoZcWyzEZrdeeQEgH7pVtTzl3fzv8juQ6MRX9T2M5WEmmljcDkEwII85uXmTQ3G1rB2zS/VBI0bMS7nXOtgvv4dde99Hi1mC1e+0fz67/KFe6Ed9C2zTUTE7QdqkU8jRwXU7dUcZcfVd1KTFubqWm34I1p8JxD3ctlm1SDg+oFzhLboigu53B21TGGecLfbYuVo+MfaY+hltS45JH+bTkDnkYU9HvhzznibANliUKSXxVRxudiD1D1JwUbu/jsGmWaQ+23rXuMBOWvnHX+3rYn5xP8AiEey5WVPhJ7bGubcLrXSDG2X8pVYymZmZDyRl3slPsYBmYOKCYdatpjtXwZ8tMeWNrRv17lv+0meG205i4Wr01KrRxjkif1r0A+FzR/0WiJtzhz7aCP8Zn4Jr5VFkmFthc0HQXAHpSL/AAj+H/ReEaxyxO6gkzbyRXQRzt8iXS2cEB2vHA6LDamHRPN9k9v0ZCRyAuACdc0ZwzlglPWmH0zDlZDywub0uKovS1vFvxY8eKP0x1/JqQSD5wOMQH2nFMOqHtyyS+dTtd/psUxtET8XG0/ZTOb7DSkmim8TU+Y97/bI2KmcDRGSvnCrqJweE+Aj66FzT6zhsUMQtttZDCdcEmKfVb1q9ODanM2oGqSnBHO1vWo1TucqXcKniefpYsZ53OcvE4Z5QmM2LnaPjH3n7KOeTFtvqGefvjeYudsVXWTl12MyTkxX8obZ0tWpO5aqIOKN7Oh9RG5nIMZ3shMjcHM/4+eBg0xte933bGt6QojBeZ8Ouve85NXp617rR/Hpt9JSOxXT4sVZPi2B28Qjjtc9+jNirRljpHNjZe55DRxk2Lylp4qanZSwA72wlznP4Ukjsr3WZNAGYALR7hMG47zUu4MdrWa3EdseQGzztS6NY4a7Pm8t+O82bOhphFGyJvBjaGjXYMvKn0IRWEIQgEIQgFl8M0m9SYwHaSXjU7OOv/4tQmaunbI0sdkPQcxGtBk2uS8ZNVELonlj8oyHMRmIXgcvQexkb4dKaxkYygOF6SXpGMvCVIWXcXMEgkaBzBJLkklAo2aBzBIcBoHMEEpBKBLm6hzBNluocwThKQSgSBxcwXuMV4SkkqQovOlJLykkpJKIKLkgleFyQXKQouTEj0PeoksltwvJuAGUk5AESepKZ88rYY+E85cwGdx1ALqVBSNhjbEwdqwADSdJOsm/lVTuTwH8HZjvHd5OF9EZmDr18Svl4mQIQhQBCEIBCEIBCEIIeE6BszbDc4XtdnB92pZGZjo3FjxY4dOgg5wt0omEsHsmbiuuI4LhlaesalO4x4evcdJrqSSF2K8XHguHBdxa9SZEikSMZeFyYx0Y6B0uSS5Nly8xkDhcklybLl4XIFkpJckFySXIFlySXJBckFylBwlILkgvTbnoHHOTT5E1JMmWB0jgxjS57rg1otJRL2WZbbcjubMdlROO6ngMPeA5z9LZsd3M7lhBZLNY6bMMrWcWl2vm0rTLzMgQhCgCEIQCEIQCEIQCEIQCEIQNzwNe0se0FpygrLYU3OPZa6Dtm+AT2w4j323jWtQg5oZLDYbQRlBFhHGCjfFv8IYLimHdGAnM4XOHKNizVfuSkbfC8OHgvud94XHoXrcUu+LzHTVZTSxfGxubrI7X7wu6VG39BNMi8L1D35eb8glmRJL1EM6QZ1IlmRIMqhOnXkOPIcWNrnO0MBJ5ggkvmUeSdXdBuOqpbDJZE36ZtdyNHWQtZgncnTw2OLd8kHfSXgHU3INqjcYzA25yep7azEi8N4N/ktyu2a1v8DYEhpm2Ri1x4T3Xudy5hqCskKNwIQhQBCEIBCEIBCEIBCEIBCEIBCEIBCEIBCEIAhV1VgOmk4cLLTnaMU87bCrFCDOzbjKV2TfGeS+32rVEduEizTS2a8Q/pWtQm4yH9govHy8zPcn4dwtMOE+V2ovaB6rQVqEIKan3LUbLxA0n6wuf0OJCtoYmsGKxoa0ZmgAcwS0IBCEIBCEIBCEIBCEIBCEIBCEIP//Z" group-title="REDE GLOBO",GLOBO INTER TV CABUGI SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44694.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO CURITIBA SD" tvg-logo="https://i.imgur.com/bgdxVGf.png" group-title="REDE GLOBO",GLOBO CURITIBA SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45577.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO GO FHD " tvg-logo="https://i.imgur.com/un06iZG.png" group-title="REDE GLOBO",GLOBO GO FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45588.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO NORDESTE SD " tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="REDE GLOBO",GLOBO NORDESTE SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45586.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="GLOBO NORDESTE FHD " tvg-logo="https://i.imgur.com/cAcmn84.png" group-title="REDE GLOBO",GLOBO NORDESTE FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45585.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="https://i.imgur.com/VDkKhvy.png" group-title="REDE GLOBO",GLOBO NSC FLORIANOPOLIS HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45597.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC FLORIANOPOLIS FHD." tvg-logo="https://i.imgur.com/VDkKhvy.png" group-title="REDE GLOBO",GLOBO NSC FLORIANOPOLIS FHD.
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45598.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO PORTO ALEGRE SD " tvg-logo="https://i.imgur.com/PnkSkRC.png" group-title="REDE GLOBO",GLOBO PORTO ALEGRE SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45571.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE SD " tvg-logo="https://i.imgur.com/PnkSkRC.png" group-title="REDE GLOBO",GLOBO RBS PORTO ALEGRE SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45572.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" group-title="REDE GLOBO",GLOBO TV MIRANTE HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45592.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE SAO LUIZ FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" group-title="REDE GLOBO",GLOBO TV MIRANTE SAO LUIZ FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45591.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS FHD" tvg-logo="https://i.imgur.com/vCyshro.png" group-title="REDE GLOBO",GLOBO RBS FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45596.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS HD" tvg-logo="https://i.imgur.com/vCyshro.png" group-title="REDE GLOBO",GLOBO RBS HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45595.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD " tvg-logo="https://i.imgur.com/jV9A1JT.png" group-title="NOTICIAS",GLOBO NEWS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45366.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS FHD " tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="NOTICIAS",GLOBO NEWS FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45365.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS FHD H.265" tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="NOTICIAS",GLOBO NEWS FHD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45361.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO REDE AMAZONICA MANAUS SD " tvg-logo="https://i.imgur.com/ZPytfnk.png" group-title="REDE GLOBO",GLOBO REDE AMAZONICA MANAUS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45583.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC TV CURITIBA HD " tvg-logo="https://i.imgur.com/bgdxVGf.png" group-title="REDE GLOBO",GLOBO RPC TV CURITIBA HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45576.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV ANHANGUERA GO SD " tvg-logo="https://imgur.com/un06iZG.png" group-title="REDE GLOBO",GLOBO TV ANHANGUERA GO SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45587.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV CAMBUGI " tvg-logo="https://1.bp.blogspot.com/-bPMlLvqpdGc/Xe0OtVJDd_I/AAAAAAAAHnQ/x5E4iV_pjJ8iHeFLzs6T0ZD4QK_sYjTIgCLcBGAsYHQ/s1600/intertv%2Bcabugi.jpg" group-title="REDE GLOBO",GLOBO TV CAMBUGI 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45599.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD " tvg-logo="data:image/jpeg;base64,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" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA CUIABA SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44697.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV LIBERAL BELEM SD " tvg-logo="data:image/jpeg;base64,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" group-title="REDE GLOBO",GLOBO TV LIBERAL BELEM SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44698.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO TV TEM BAURU SD " tvg-logo="data:image/jpeg;base64,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" group-title="REDE GLOBO",GLOBO TV TEM BAURU SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44688.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV TEM SOROCABA SD " tvg-logo="" group-title="REDE GLOBO",GLOBO TV TEM SOROCABA SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44689.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD " tvg-logo="https://i.imgur.com/BvQRywD.png" group-title="REDE GLOBO",GLOBO TV TRIBUNA SANTOS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45584.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS SD " tvg-logo="https://i.imgur.com/WYygOpR.png" group-title="REDE GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45589.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VERDES MARES SD " tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45570.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VERDES FHD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",GLOBO VERDES FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45567.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",GLOBO VERDES MARES HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45569.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="GLOBO VERDES MARES HD¹" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",GLOBO VERDES MARES HD¹
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45568.m3u8
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="GAZETA 4K " tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="CANAIS 4K",GAZETA 4K 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45003.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GAZETA HD " tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",GAZETA HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45574.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GAZETA SD " tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",GAZETA SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45575.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GAZETA SP FHD " tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",GAZETA SP FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45573.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB SD " tvg-logo="https://i.imgur.com/tb8cPTA.png" group-title="INFANTIL",GLOOB SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45313.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD " tvg-logo="https://i.imgur.com/tb8cPTA.png" group-title="INFANTIL",GLOOB HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45312.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FHD " tvg-logo="https://i.imgur.com/tb8cPTA.png" group-title="INFANTIL",GLOOB FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45311.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD " tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45461.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45460.m3u8
+#EXTINF:-1 tvg-id="premierefc.br" tvg-name="GUIA FUTEBOL FHD " tvg-logo="https://zerozero.com.tr/img/logos/equipas/4340_imgbank.png" group-title="PREMIERES",GUIA FUTEBOL FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44531.m3u8
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD " tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="DOCUMENTÁRIOS",H2 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45235.m3u8
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="DOCUMENTÁRIOS",H2 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45234.m3u8
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD " tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="DOCUMENTÁRIOS",H2 FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45233.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO  HD " tvg-logo="https://i.imgur.com/dgH054u.png" group-title="CANAIS HBO MAX",HBO  HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44740.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://i.imgur.com/dgH054u.png" group-title="CANAIS HBO MAX",HBO FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44454.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO  FHD DUAL " tvg-logo="https://i.imgur.com/dgH054u.png" group-title="CANAIS HBO MAX",HBO  FHD DUAL 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44541.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD DUAL AUDIO  H.265" tvg-logo="https://i.imgur.com/dgH054u.png" group-title="CANAIS HBO MAX",HBO FHD DUAL AUDIO  H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO + DUAL AUDIO H.265" tvg-logo="https://img.estadao.com.br/fotos/crop/640x400/resources/jpg/6/9/1572479408096.jpg" group-title="CANAIS HBO MAX",HBO + DUAL AUDIO H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45546.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://i.imgur.com/sPbcIgM.png" group-title="CANAIS HBO MAX",HBO 2 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45536.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD " tvg-logo="https://i.imgur.com/sPbcIgM.png" group-title="CANAIS HBO MAX",HBO 2 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45533.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://i.imgur.com/sPbcIgM.png" group-title="CANAIS HBO MAX",HBO 2 FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45530.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K " tvg-logo="https://i.imgur.com/dgH054u.png" group-title="CANAIS 4K",HBO 4K 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45006.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD " tvg-logo="https://i.imgur.com/WVJ6BAQ.png" group-title="CANAIS HBO MAX",HBO FAMILY SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45524.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/WVJ6BAQ.png" group-title="CANAIS HBO MAX",HBO FAMILY HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45523.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY FHD DUAL" tvg-logo="" group-title="CANAIS HBO MAX",HBO FAMILY FHD DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45519.m3u8
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS FHD DUAL" tvg-logo="https://i.imgur.com/UNf6ksP.png" group-title="CANAIS HBO MAX",HBO PLUS FHD DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45543.m3u8
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS HD " tvg-logo="https://i.imgur.com/UNf6ksP.png" group-title="CANAIS HBO MAX",HBO PLUS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45544.m3u8
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS SD " tvg-logo="https://i.imgur.com/UNf6ksP.png" group-title="CANAIS HBO MAX",HBO PLUS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45545.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD " tvg-logo="https://i.imgur.com/dgH054u.png" group-title="CANAIS HBO MAX",HBO SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44623.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.imgur.com/fxfMW8o.png" group-title="CANAIS HBO MAX",HBO SIGNATURE SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45542.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD " tvg-logo="https://i.imgur.com/fxfMW8o.png" group-title="CANAIS HBO MAX",HBO SIGNATURE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45540.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE FHD " tvg-logo="https://i.imgur.com/fxfMW8o.png" group-title="CANAIS HBO MAX",HBO SIGNATURE FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45538.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO XTREME HD" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="CANAIS HBO MAX",HBO XTREME HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD H.265 " tvg-logo="https://i.imgur.com/HnAi9Sz.png" group-title="VARIEDADES",HGTV FHD H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 USA" tvg-logo="https://exorbeo.com/wp-content/uploads/2013/04/history-2-na-sky-quando.jpg" group-title="CANAIS U.S.A",HISTORY 2 USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43152.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY HD " tvg-logo="https://i.imgur.com/YbCQmxQ.png" group-title="DOCUMENTÁRIOS",HISTORY HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45231.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://i.imgur.com/YbCQmxQ.png" group-title="DOCUMENTÁRIOS",HISTORY SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45232.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY FHD H.265" tvg-logo="https://i.imgur.com/YbCQmxQ.png" group-title="DOCUMENTÁRIOS",HISTORY FHD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45230.m3u8
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID SD " tvg-logo="https://i.imgur.com/qQC3Tpc.png" group-title="DOCUMENTÁRIOS",ID SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45229.m3u8
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID HD " tvg-logo="https://i.imgur.com/qQC3Tpc.png" group-title="DOCUMENTÁRIOS",ID HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45228.m3u8
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID FHD H.265 " tvg-logo="https://i.imgur.com/qQC3Tpc.png" group-title="DOCUMENTÁRIOS",ID FHD H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45227.m3u8
+#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL SD " tvg-logo="data:image/jpeg;base64,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" group-title="RELIGIOSOS",IDEAL SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44634.m3u8
+#EXTINF:-1 tvg-id="idealtv.br" tvg-name="IDEAL TV FHD " tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPEhUQEBAPEBUQEhAVDxUVFxAVDxAQFhUWFhUXFhUYHSggGBolGxYVITEhJSkrLi46Fx8zODMsNygtLisBCgoKDg0OGhAQGy0lICUrKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMABBgMBEQACEQEDEQH/xAAcAAEAAwADAQEAAAAAAAAAAAAAAQYHAwQFCAL/xABEEAACAQICBwMGCQsFAQAAAAAAAQIDBAURBgcSITFBYRNRcTJSgZGhsRQiM0Jyc5LB0RUWIzQ1U1RigrLhFyVDdJMk/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAQFAQMGAgf/xAAwEQEAAgECBAUDBAICAwAAAAAAAQIDBBEFEiExEzIzQVEiYXEUFSNSQoE0kSRDYv/aAAwDAQACEQMRAD8A2YAAAAAAAAAAAAAAAAAAAAAAAAkAOoZnmbRXuz3FJPg0xFqz2kmu3eA9MIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkCAAEgedjWJq3hnu2nnlnwSXGT6FdxDWxgrtHmnslaXTzln7Mjx7WJJzapJ1sn5Um40/6YrkVVdLnz/VmvMfaF/i0lax2dfCtYdSEl2kHBedTcnl4xfFGbaHLT6sV53+71fS1t3hrejmORuor40ZNx2oteTUj3rr0LDh+unJviy+aFFrNL4U717PaLVB3QAAAAAAAAAAAAAAAAAAAAAAAAAJACdjZx1biEfKnFeLRptqMde9oe4x3ntDgeJ0F/wAsPWaZ12GP8mz9Pk+EflSh+9h6x+vwf2P02X4PynQ/ew9Y/X4P7H6bJ8M11r4m+zlsS3VJwpprzMtqXrKaL11Gtm3eIheaDFyU6snLRZgGh6qr6SbhnupVIOPRT3SRV6qPC1OPJHv0QtZSJpP4bYzpIno5aUGRAAAAAAAAAAAAAAAAAAAAAAACTEztHVmOryMRx+nT+LD9JLp5KfVlPrOL48P016ym4NDe/Weiv3eL16vGbivNjuRz2fiefLPfaPsssekx4/bd0X6/eQLXtbvKTERHsZHllIEmR5Ok+GO6t5U4+XFqdPrKPL0rMm6DUeDliZ7M1naWVzi4txknFp5NPin1Ori0TG8dkqJiUGezO+zTdAMKlbwjOotmdapTk1zjBNbKfXn6Sh1WojLqaVr2iULUzvWfw2JnW17OXlDPTCAAAAAAAAAAAAAAAAAAAAAADeW95JLiebW5WYjdVcZxt1M4UnlDm+c/8HKcS4rbJM0x9lxpdHFfqt3eKii6rEBEpMAZEgAJMsPOxPBLa5edWlFy85Zxl60SsOty4o2rL1EzDjw/R20t3tU6S2lwlJ7TXhmesuvz5Y2mSbTL2bfy4fTh70atN61fy05fJP4X9n0CvZzc90M9MIAAAAAAAAAAAAAAAAAAAABIFa0lxLN9jB/WPv7kczxjX/8Aqx/7W2h03+cq+jm1okAYAyGY3kAwkAPZkAActov0kPpw96N+l9av5hry+nP4X9n0KvaHNShmWEAAAAAAAAAAAAAAAAAAABIHWxC57KnKp5q3dXyIuszxhxTdtw4/EvFVElJyebebbbfizgsl5vabT7ukrWK1iIDWyAQZHessKrVt8Y5Rfzpbk/AsNNw3Nn6xHRGy6qmPo9KOi8udVep/iWUcAn3siTxGPaH6/Nd/vV9n/J6/YJ/sfuX2PzYf71fZ/wAmP2D/AOj9y+zxb237Kcqee1s5b+BSarB4GSaJ+HJ4leZwkdtAOWz+Uh9OHvRv0vrV/MNeX07fhf2fQq9oc1KGZYQAAAAAAAAAAAAAAAAAAAEgeBpbXyjCn5zbfoOe47m2pFIWfDse9psrKOWW6TAGR7Gj2F9q+0mviRe5edL8EXnCOHxmt4l+yv1upmkcte62Jcsjra15Y2hTTMyGWAABScd+Xn4r3HC8U/5NnQ6T0odFFekpA5bP5SH04e9G/S+tX8w1ZfTt+F/Z9Cr2hzU90MyIAAAAAAAAAAAAAAAAAAACQKnpXLOsl3QXtbOR47b+eI+y64fH8f8At45RrAMCGzMML7h1BU6UILlFZ+PFn0DRY4phrEfDnM9+bJMuwSmkAgCQKTjny8/Fe44Xin/Itu6HSelDolekgHLZ/KQ+nD3okaX1q/mGvL6dvw0Bn0GvaHMz3QzIgAAAAAAAAAAAAAAAAAASAAqWlUcqyffBexs4/jlf5/8AS74dP8f+3kFKnhgfmRmJ2ndjbdoNpVU4RkucYv2H0PTX5sVZ+zmstdrzDlN7WAABiZ2FFxaopVqjXDaa9W44LiF+fUWn7uj00bY4dUht4By2Szq0131Ie9EjRx/NX8w15/Tt+GgM+gx2c0hmWEAAAAAAAAAAAAAAAAAAABIFc0uo+RPxi/ejmuP4/Lda8Nv3qrxzS1DAgCx6MYisuxk8mt9PPmu46jg+uiY8G8/hU67Tzvz1WI6Poq0j8AB52M4gqEH50llBde8reI6yuDHMb9ZStLgnJaPhSjiJmZnq6DaNtoSYEAd/R+jt3EP5c5P0IsuFYvE1Fft1RdZflxT912O4nu5/sMCAAAAAAAAAAAAAAAAAAAAkDpYza9rSlFcUtqP0lvIHEcHjYJiO6RpsnJkiVHTOEmNu7oYneEmGQywJ81u7uhmtprO8ExvGz27DSOcFs1Y7aXzlul6e8vdLxu9I5ckb/dX5tBWZ3rL046SW+Xz102SzjjenmET9vyQ6d3pMuFKHplwXoIeo47G22OP9t2Lh3X65eBXrSqS2ptyb5nP5s98tua8rOmOtI2h+DU9IYZALNona5RlVfzt0fBf5Oq4Hp+Wk5Z91PxDJvMVh750CtQAAAAAAAAAAAAAAAAAAAAABI23PuqOkWH9lPtIr4k39mXccfxfRTiyeJEdJXmi1EXryz3eSUicGQAAMgGQDIABAHYw+zlWmoR8ZPujzZL0emtqMkViGnPljHXdeqNJQiox3KKSXgju8OOMdIpDnb2m1t5fs2PKAAAAAAAAAAAAAAAAAAAAAAJQHHcUI1IuE1mpcUas2GuWvLZ7peaTvCmYphsqD74PyZcvB9zOL13D76e2/+K90+prlj7ukVyUDdgDINwDBmGUAc1rbSqyUILNv1Jd77jfg0+TNblpDXly1x13suWF4fG3hkt7flvm3+B2ui0VdNj2jv7qHUZ5y23d0nI6AAAAAAAAAAAAAAAAAAAAAAAEoAB+atOM04ySafFPga8mKuSvLaN4eq2tWd4VzENHWvjUXmvNfFeDOc1nBJiebD/0tMGviY2u8KrSlB5Ti4vqUOXDkxzteNljS9bxvEvwansAAFv3LNvkuZ6rSbTtDEzEPWw/AatTfP9HHr5T8FyLbScGy5Z3v0hCza6lele60WVlTox2YLLvfN+LOp02lx4K8tIVGXNfJPVzkmGoAgAAAAAAAAAAAAAAAAAAAAEg3GDuz7TfWTCyqSt7eEa1WHyjbap03x2d3Fmi+bbotNJw+ctea87QuOj97K4tqNeaSlVpwlJLyU2t+RtrO8QgZqcl5rD0D01JQHHVpRmspRjJdzSZqyYqZI2tD1W9q9Yl0KuAW8uENnwbXsIF+Eaa3XbZJrrcse7rvRqj51T1o0fseCfdt/cMjlpaPW64qUvFs204Lp6943eJ1+X2l37ezp090IRj4JZ+snY9Nix+WsI9817d5c5IatwCAMxqa0Xb3tW3uaMeyp1pQVSGe3GKeWbi+PoI/jbTtK3jhvNi56z1aTb1o1IxnCSlGaTi1wcXvTJEbbKm1ZrO0uQMAAAAAAAAAAAAAAK/iGmVlbXHwWvU7KeUWnJPs/jcPjHickROyTTS5L056x0e/CSaTTTTSaa3proe46o8xMTtL9Bh4+NaUWVluuLiEJebnnU+yt54m8QkYtNkyeWFenrVwxPLarPr2csmefGqkxwzN8PzLWthuW51+G79G+Jjxq7PUcMy79mJX9ftKlSo3n2k6ks+bzbZFnrLoMdeWkVfR+hn6jbfUU/cTaeWHJ6r1rPYlJLe3llx7ke92mImekKzimn+G2zcZXEZyXFU05+1GuctYS8ehzX7Q8z/VfDO+v9iR58erd+15k/6r4Z31/sSHj1P2zOs2j2OUb+kq9Da2HKUVtLJ5x47jZW8Wjoh5sNsVuWz0qlSMU5SailvbbSSXVnro11iZnaFVxHWLhlBuLuO0a4qmpT9q3GqctYSqaHNfrs4LLWdhdR7LrTp923CSXrEZqy924dmr7LZZ3lOtBVKVSFSL4Si017DZExKFelqTtaHMjLzD5p0x/Xrr/sVPeQL+aXX6X0obRqrrSnhtHaeeztxX0VJ5ErF1rDnuIREZ5W02oIAAAAAAAAAAAAADBtby/wBxl9VT+8h5vM6XhfXDsvWpnE51bSVKbcvg9TZg3x2Gs0vQbsFt4VvE8UVybw6es3T2Vu3Z2ksqmX6aov8Aiz+bH+bryPOTJ7Nmg0PP9d+zI7W2q3FTZpwqVqk3nks5Tk+bb+9kfabLubUxR16LJS1dYrJZ/BtnPk5wTXozPcYrI/7jgj3S9XGKre7dbv54GPCsxGvwT7qrVg45p7nFyT6NZpnjsmxO8bvpHRKrGGH28pNJRt4OTfBJR3snUnasOS1ETbNMR8si0906q38pUaEpU7aLaSTalWy+dLL5vciNkyTPZeaPQ1x15rd1awfAbq8bVtQnVyeTaSUE+snuNcVtPZLyajHjj6pe6tW+K87eK725wyS6nvwrQ0RxHD8qrXpbEpQbi3CTi3F5xbTyeT5o1z0TItFqxMNw1Y1I2uExrVpbEE6tRt8o7TJeKeWm7nNfE5dRy17s0010zr4lNpOVOgm+zprP4y5Sn3vpwRovebLbSaKuGOvWXmYPo3eXiztrepUj526MF/U9z9B5rW09m/JqcWPpaXYxXQ3ELWLnVtaiiuMo7M4rx2d5mccx7POPW4sk7RLr6N6Q3GH1FVt55LP48H8nUXc139TFbzWWc+mplr1fQmjOPUsQoRuKXPdOL8qE1xiyZS28buYz4LYr8svn7TH9euv+xU95Dv5pdPpfSq2XVL+zaX0qv9zJWHyqDiPryuLNqAgAAAAAAAAAAAAAGD63v2jL6qn95DzeZ03DPRe9qovlbWN7Xf8Aw5z9Khmvaesc7VmUXiFOfNWrL7ivOrKVSbcp1JOUu9yk/wDJpmd5W9Iildn0JoHovTw+3itlOtUjGVefztprPZT5JcCXjpEOY1mptlvPws5tRJfiv5Mvoy9xiezNPND5ZvvLqfWVP7mV893Y4/JDVdLsVlQwO1pxeUrmFKHXYUc5fcvSScltqQpdNii+rtM+zMMJoUqlanCtUVGnKS7Wb4Rglm/S8svSRo236rrNNopPLHVuWH6Y4Na0o0qNxShCCyjGKee70b2TK5KRDnL6TU5Lb2hUtONZyrU5W9jtJT3VKrWT2XxUF17zVkzRPSE3ScNms82Rn2BYPVva8Leim5Ta2nyhD50n0W801rNpWefNXFTeWka27hWdpa4dRzUZJuXWFNJJPxk8zfl6Ryqrh1fFyWy2UrQLR5YjeRoyz7OC7Sv3uC+b6XkvWasdd5WGtz+Dj3ju+h7W2hSiqdOMYRikoxisopLoTYjZy1rzed5ckknuZmerETMMQ1s6MU7OrG5oR2adw2pxXkwqrfmu5NciJmrt1h0PDdTOSvLb2fvUxikqV3K2b+JcU28uSqQ4NehsYZ6nFMUWpF/hVtMf166/7FT3mu/mlM0vpQ2XVL+zaX0qv9zJWHyqDiPryuLNqAgAAAAAAAAAAAAJQGDa3v2jL6qn95DzeZ03DPRd3Qmk54RiUY724N+OUU37EZpH0S1audtRRn9rVUZQk1uhOEn1SabNMd1neN6zD6ot6qnGM4vOMoxcX3prNFhHWHG3rMWmJchn2eXBfVo06c5yeSjCTb7kkzE9nvHEzeHy1cz2pTkuEpTa8G20V893Y0+mjRtY1tKOGYa2mtiLjLo5U45e5m/LH0wqdDP/AJF2e2ltOtNU6cXOc90YrypPLPJeo0d5W97REbzL1PzRxH+DuPV/k9+Hb4R51mH+z2sH1YYjXa7SMLaHOU3nLLpBcT1XFaUfNxLFSPp6td0U0Vt8Np7FJbUpfKVJeXUf3LoSaUiqjz6q+a28s515U329tLk6NRLuzUln7zRqO614RP02cOpG4jG7rU20pVKKcOuzLNpesxgn6nri1ZmkTDaSW58Az3XYv/ih9fD3M0Z/KtOFerLPNWL/ANzt/Gp/azTi8y14j6MujptScMQuovj2836Hk17GjzeOstmjmJwxLXNT9xGeHRiuNOpUjNdzzzXsZJwz9Kj4nWYzbrublcgAAAAAAAAAAAAAGDa3v2jL6ql95DzT9TpeGT/CtOpOmp29zCSzUppSXJpxyZswxvEonFJ5bxLOtLsBnh9zOhJPZzcqL5TpN7snzy4Gi1eWVlpc8ZccWhctXmsaNtCNre7XZx3UaqzexHzZLjkuTNuPLt0lA1ugm889GivTTDNnb+HW+X0ln6uJv8Svyq/0eX+ss31haxFdwdrZ7Spy+WqPc6i82KfBdTRky79IW2i4fNJ57qpoZo/PELqFGKexGUZV5co0083n1fBGuleaU3V54xY5luOmmj6vrKdvFJSilKh0nDyV93pJV67xs57TZ/Dy88vnmE6tvUzW1SqUZ/1QqRf4kPrEuo+nLXr2ltGius+0rwUbuatqqSUnLPsp9VLln3Mk0yx7uf1PD70nenWFm/O3Dv422+3E2eJX5RP0mX+svQsMRoXEduhVp1UuLhJSSfXLgeotE9mq+K1J+qNlX1oaOu+tM6azq27c6a5yWXxo+le415a7wmaDURiybT2lhmF4hVta0K9JuE6Us17nGS7nvTRErMxLo8lK5KTE9pbfo9rKsLmC7apG2qJLajU3Rz/llwaJdc0THVzmfh+SlvpjeHufnXh38bbfbievEr8tH6TN/WVH1uY3a3FpCFC4o1ZKtBtQkm0snvyRpzWiY6LHh2G9Mm9oUrVi/wDc7fxn/YzXi8yw4j6ErLrm0dlGqr+nF7FRRhXy+bNboyfRrce81eu6HwvUxy+HKraD6W1MLrOWTnSqZdtDw4Sj/MjxjvyJur0sZ69O8Nmw/TrDK0VJXdKG5Zxm9icX1TJVctZUFtFmrO2z1sPxe2uc+wr0auXHYlGTXilvPUWiezRfDenmjZ3TLX+AAAAAAAAAAAAZ1rU0Lq3uzdWy2qlOOzUhzqQ4px6rfu6mjLTda8P1cY/ot2fnUxZ1aNK4jVp1KUu1jumnF+T1GGJiOrHEslbzE1lbtKdGbfEqXZVk01m6dReXTl3r8DZakWhD0+pthnerGMe1cYhat7FP4TBcJU/Ka6w4ojWxWhe4uIYrx8K7+RLrPZ+C3GeeWXZzzz9R4mkpXj4vmFkwHVviF1JdpD4NDnKp5WXSHFs9ximyNl4jjp26tn0Y0coYdSVGgutSb8upLvf4ciTSkVhQajUXzW3s9g9tG6kadavqWIZ1qMlRuOby/R1ek0ufU1ZMUW6wsNJr7Yfpt2ZJiuhuI2zana1JJfOgtuDXiiNOOYXdNZivHd5n5Huf4av/AOc/wPPLLZ4+P5ho2pnCLulXqVp06lKk6ey9pOO3PPdkn3b95vwxMdVVxLLjtERHdr5JUsSzrTnVpG7k7izcaVV5upB/JVX35/NkaL4t+sLXScRnH9N+zLcR0TxC3bVS0rbucVtxfpRomkwt6avFbtLo/ke6/hq//nL8DHLL34+P5hP5Guv4av8AYl+A5ZZ8fH8ws+rfDa9PEaEp0KsIpzzcoyUV8V8z3jiYtuh6/LScMxEt3uraFWEqdSMZwmnGcXvUk+TJcxvGznaXmsxMMf0r1U1qcnUsGqsHv7KTyqQ6RfCS9pGvhn2Xen4lWY2uotxgF5TezO0rp/Qk/ajVySsY1GO0dJWfVjgd4r+nVVKrShTzdaUouMXBryd/HM2YqzEoeuzYpxTHeW8EvZzvsAAAAAAAAAAAANwMbMz8JMsT2B1OwOjO8oHRjYAAAdgbM7mQ2N5DGxvKTLAIk7IG0MgN5Bsb/IYgSZYGAB1QxsTsCSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//Z" group-title="RELIGIOSOS",IDEAL TV FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44532.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="IGREJA PRESBITERIANA RENOVADA TV" tvg-logo="https://lh3.googleusercontent.com/proxy/_CbzjVUBtbU60wH8hS-VyDnF1lwXQNDQJkTEMda53fALGQKe0v66AJiO9XbvqAYKwd22m-s8zicVyLljYz3mMkRl1FY" group-title="RELIGIOSOS",IGREJA PRESBITERIANA RENOVADA TV
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44978.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="LIFE TIME SD " tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFE TIME SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45441.m3u8
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFE TIME FHD" tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFE TIME FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="VARIEDADES",MAIS GLOBOSAT SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45457.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="MAIS GLOBOSAT FHD " tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="VARIEDADES",MAIS GLOBOSAT FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45455.m3u8
+#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="MAX FHD DUAL" tvg-logo="https://i.imgur.com/UqdptsC.png" group-title="CANAIS HBO MAX",MAX FHD DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45501.m3u8
+#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="MAX FHD H.265 DUAL" tvg-logo="https://i.imgur.com/UqdptsC.png" group-title="CANAIS HBO MAX",MAX FHD H.265 DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45500.m3u8
+#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="MAX PRIME SD " tvg-logo="https://i.imgur.com/Mbk7L7K.png" group-title="CANAIS HBO MAX",MAX PRIME SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45493.m3u8
+#EXTINF:-1 tvg-id="maxprimee.br" tvg-name="MAX PRIME HD" tvg-logo="https://i.imgur.com/Mbk7L7K.png" group-title="CANAIS HBO MAX",MAX PRIME HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45492.m3u8
+#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="MAX PRIME FHD " tvg-logo="https://i.imgur.com/Mbk7L7K.png" group-title="CANAIS HBO MAX",MAX PRIME FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45491.m3u8
+#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="MAX PRIME H.265 DUAL" tvg-logo="https://i.imgur.com/Mbk7L7K.png" group-title="CANAIS HBO MAX",MAX PRIME H.265 DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45488.m3u8
+#EXTINF:-1 tvg-id="maxup.br" tvg-name="MAX UP FHD  DUAL" tvg-logo="https://i.imgur.com/z2HVodZ.png" group-title="CANAIS HBO MAX",MAX UP FHD  DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45498.m3u8
+#EXTINF:-1 tvg-id="maxup.br" tvg-name="MAX UP DUAL AUDIO H.265" tvg-logo="https://i.imgur.com/z2HVodZ.png" group-title="CANAIS HBO MAX",MAX UP DUAL AUDIO H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGA TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="VARIEDADES",MEGA TV SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45509.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="MEGA TV FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="VARIEDADES",MEGA TV FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45507.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX 4K dual audio" tvg-logo="https://i.imgur.com/oDWyzmv.png" group-title="CANAIS 4K",MEGAPIX 4K dual audio
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44997.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD " tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/08/megapix-acao-facebook-960x556.png" group-title="FILMES E SERIES",MEGAPIX HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45384.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/08/megapix-acao-facebook-960x556.png" group-title="FILMES E SERIES",MEGAPIX SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45385.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/08/megapix-acao-facebook-960x556.png" group-title="FILMES E SERIES",MEGAPIX FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45382.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX H.265" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/08/megapix-acao-facebook-960x556.png" group-title="FILMES E SERIES",MEGAPIX H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIAMI TV HD " tvg-logo="" group-title="VARIEDADES",MIAMI TV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/mtv-brasil-1-logo-png-transparent.png" group-title="VARIEDADES",MTV SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45469.m3u8
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/mtv-brasil-1-logo-png-transparent.png" group-title="VARIEDADES",MTV FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45467.m3u8
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD " tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/mtv-brasil-1-logo-png-transparent.png" group-title="VARIEDADES",MTV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45468.m3u8
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV LIVE FHD" tvg-logo="https://i.imgur.com/42x9a33.png" group-title="VARIEDADES",MTV LIVE FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45462.m3u8
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV LIVE HD " tvg-logo="https://i.imgur.com/42x9a33.png" group-title="VARIEDADES",MTV LIVE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45465.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD " tvg-logo="https://i.imgur.com/MJJ7zi5.png" group-title="VARIEDADES",MULTISHOW SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45490.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K dual audio" tvg-logo="https://i.imgur.com/MJJ7zi5.png" group-title="CANAIS 4K",MULTISHOW 4K dual audio
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44995.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW  FHD" tvg-logo="https://i.imgur.com/MJJ7zi5.png" group-title="VARIEDADES",MULTISHOW  FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45489.m3u8
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL SD " tvg-logo="https://i.imgur.com/ATubgbr.png" group-title="VARIEDADES",MUSIC BOX BRAZIL SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO USA" tvg-logo="https://skyassineonline.com.br/img/channels/lg-51-canal-nat-geo.png" group-title="CANAIS U.S.A",NAT GEO USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD USA" tvg-logo="https://yt3.ggpht.com/a/AGF-l79MrcMepj4fnV0aaam0uq0P3zVDDfjqgirC9A=s900-c-k-c0xffffffff-no-rj-mo" group-title="CANAIS U.S.A",NAT GEO WILD USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43161.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO 4K " tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/natgeo/national-geographic@2x.png" group-title="CANAIS 4K",NATGEO 4K 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44999.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTÁRIOS",NATGEO HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45237.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO FHD" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTÁRIOS",NATGEO FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45236.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO SD" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTÁRIOS",NATGEO SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45238.m3u8
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NATGEO KIDS HD " tvg-logo="https://i.imgur.com/dNJldV5.png" group-title="INFANTIL",NATGEO KIDS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45318.m3u8
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NATGEO KIDS FHD" tvg-logo="https://i.imgur.com/dNJldV5.png" group-title="INFANTIL",NATGEO KIDS FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45317.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO WILD HD " tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTÁRIOS",NATGEO WILD HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45240.m3u8
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATGEO WILD FHD" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTÁRIOS",NATGEO WILD FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWSMAX TV USA" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTk2NTU1NTY0Nzk1/newsmaxtv-450x345_3jpg.jpg" group-title="CANAIS U.S.A",NEWSMAX TV USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/42823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK SD " tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51T6LAzxMWL.png" group-title="VARIEDADES",NHK SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD HD " tvg-logo="https://www.jibtv.com/assets/img/nhk/bnr_world.png" group-title="VARIEDADES",NHK WORLD HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45392.m3u8
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR SD" tvg-logo="https://i.imgur.com/mSxkyPK.png" group-title="INFANTIL",NICK JR SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45292.m3u8
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK  JR HD " tvg-logo="https://i.imgur.com/mSxkyPK.png" group-title="INFANTIL",NICK  JR HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45291.m3u8
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR FHD " tvg-logo="https://i.imgur.com/mSxkyPK.png" group-title="INFANTIL",NICK JR FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45290.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON HD " tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICKELODEON HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45294.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON SD " tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICKELODEON SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45295.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKLODEON FHD" tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICKLODEON FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45293.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="ESPORTES",OFF SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44653.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD " tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="ESPORTES",OFF FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45287.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD  H.265 " tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png" group-title="ESPORTES",OFF FHD  H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45286.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="FILMES E SERIES",PARAMOUNT SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45391.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="FILMES E SERIES",PARAMOUNT HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45389.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="FILMES E SERIES",PARAMOUNT FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45388.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="POLISHOP SD" tvg-logo="https://i.imgur.com/I7GGcp0.png" group-title="VARIEDADES",POLISHOP SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45522.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIER 4K" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/pfc/logo/2018/large.jpg" group-title="CANAIS 4K",PREMIER 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44988.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES SD " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/premiere-1-1.jpeg" group-title="PREMIERES",PREMIERE CLUBES SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45448.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES FHD  H.265 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/premiere-1-1.jpeg" group-title="PREMIERES",PREMIERE CLUBES FHD  H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45443.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES HD " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/premiere-1-1.jpeg" group-title="PREMIERES",PREMIERE CLUBES HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45446.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIER CLUB FHD *" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/premiere-1-1.jpeg" group-title="PREMIERES",PREMIER CLUB FHD *
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45452.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIER  2 SD." tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER  2 SD.
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45459.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIER HD 2." tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER HD 2.
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45458.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIER 2 FHD." tvg-logo="https://i.imgur.com/B41f3Ol.png" group-title="PREMIERES",PREMIER 2 FHD.
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45456.m3u8
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIER  3 SD." tvg-logo="https://i.imgur.com/B41f3Ol.png" group-title="PREMIERES",PREMIER  3 SD.
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45466.m3u8
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIER HD 3 ." tvg-logo="https://i.imgur.com/B41f3Ol.png" group-title="PREMIERES",PREMIER HD 3 .
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45464.m3u8
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIER 3 FHD ." tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER 3 FHD .
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45463.m3u8
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIER 4 SD." tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER 4 SD.
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45475.m3u8
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIER 4 HD " tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER 4 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45474.m3u8
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIER 4 FHD." tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER 4 FHD.
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45472.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="PREMIER 5 SD" tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER 5 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45478.m3u8
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIER 5 HD" tvg-logo="https://i.imgur.com/B41f3Ol.png" group-title="PREMIERES",PREMIER 5 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45477.m3u8
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIER 5 FHD" tvg-logo="https://i.imgur.com/B41f3Ol.png" group-title="PREMIERES",PREMIER 5 FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45476.m3u8
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIER  6 SD" tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER  6 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45481.m3u8
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIER 6 HD " tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER 6 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45480.m3u8
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIER 6 FHD " tvg-logo="https://i.imgur.com/B41f3Ol.png" group-title="PREMIERES",PREMIER 6 FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45479.m3u8
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIER  7 SD " tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER  7 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45483.m3u8
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIER 7 FHD" tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER 7 FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45482.m3u8
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIER  8 SD " tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER  8 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45484.m3u8
+#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="PRIME BOX SD " tvg-logo="http://s.tvmaster.net:80/nito/1214/34720" group-title="VARIEDADES",PRIME BOX SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45527.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD 4K dual audio" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="CANAIS 4K",RECORD 4K dual audio
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44986.m3u8
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD " tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="NOTICIAS",RECORD NEWS FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45368.m3u8
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS SD " tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="NOTICIAS",RECORD NEWS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45369.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RJ HD²" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="CANAIS ABERTOS",RECORD RJ HD²
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44820.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD SP FHD " tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="CANAIS ABERTOS",RECORD SP FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44475.m3u8
+#EXTINF:-1 tvg-id="Record RJ HD" tvg-name="RECORD SP HD" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="CANAIS ABERTOS",RECORD SP HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/38004.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD SP SD " tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="CANAIS ABERTOS",RECORD SP SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44714.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD PR HD" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="CANAIS ABERTOS",RECORD PR HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/31587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV  FHD " tvg-logo="https://seeklogo.com/images/R/red-bull-logo-00BE208AF1-seeklogo.com.png" group-title="ESPORTES",RED BULL TV  FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil SD³" tvg-logo="https://www.egonoticias.com/wp-content/uploads/2019/07/marca_rede_brasil_cmyk-color-340x359.jpg" group-title="CANAIS ABERTOS",Rede Brasil SD³
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45439.m3u8
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/235px-LGT_Rede_Gospel.png" group-title="RELIGIOSOS",REDE GOSPEL FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44534.m3u8
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL SD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/235px-LGT_Rede_Gospel.png" group-title="RELIGIOSOS",REDE GOSPEL SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE POVO" tvg-logo="https://i.imgur.com/XillKLn.jpg" group-title="CANAIS ABERTOS",REDE POVO
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE SÉCULO 21" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b4/Rede_S%C3%A9culo_21.jpg/200px-Rede_S%C3%A9culo_21.jpg" group-title="RELIGIOSOS",REDE SÉCULO 21
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/25037.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV 4K " tvg-logo="https://i.imgur.com/AKTvJNq.png" group-title="CANAIS 4K",REDE TV 4K 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45005.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD " tvg-logo="https://i.imgur.com/Px7FeLP.png" group-title="CANAIS ABERTOS",REDE TV FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45431.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD " tvg-logo="https://i.imgur.com/Px7FeLP.png" group-title="CANAIS ABERTOS",REDE TV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45432.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SD " tvg-logo="https://i.imgur.com/Px7FeLP.png" group-title="CANAIS ABERTOS",REDE TV SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45433.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV 4K" tvg-logo="https://i.imgur.com/AKTvJNq.png" group-title="CANAIS 4K",REDETV 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETRO CHANNEL USA" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/press/press-releases/stingray-retro-logo.png" group-title="CANAIS U.S.A",RETRO CHANNEL USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43173.m3u8
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT SD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Rede_Internacional_de_Televis%C3%A3o.png" group-title="VARIEDADES",RIT SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45528.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="SBN SD " tvg-logo="https://www.google.com/search?q=SBN+TV++PNG&tbm=isch&ved=2ahUKEwiLqa2s18znAhX5MLkGHbh_C-kQ2-cCegQIABAA&oq=SBN+TV++PNG&gs_l=img.3...9354.10411..11064...0.0..0.131.512.0j4......0....1..gws-wiz-img.......35i39j0i7i30.qq_aX822OgU&ei=LElEXovjHvnh5OUPuP-tyA4&bih=786&biw=1600&client=firefox-b-d#imgrc=i-9A9FUPpKg7vM&imgdii=XTZdk6Q3e7reKM" group-title="VARIEDADES",SBN SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45529.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K dual audio" tvg-logo="https://i.imgur.com/wRSDg45.png" group-title="CANAIS 4K",SBT 4K dual audio
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44992.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PARANA SD " tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT PARANA SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45421.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP FHD " tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT SP FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45418.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD " tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT SP HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45419.m3u8
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME HD " tvg-logo="https://images-shoptime.b2w.io/spacey/2019/05/06/logo_shoptime_250x250.png" group-title="VARIEDADES",SHOPTIME HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45520.m3u8
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME SD" tvg-logo="https://images-shoptime.b2w.io/spacey/2019/05/06/logo_shoptime_250x250.png" group-title="VARIEDADES",SHOPTIME SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45521.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="SIC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="VARIEDADES",SIC SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN FHD" tvg-logo="https://cdn.romanews.com.br/img/pc/780/530/dn_noticia/2019/04/smithsonian-channel-logo-large.jpg" group-title="CANAIS 4K",SMITHSONIAN FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45537.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE 4K dual audio" tvg-logo="https://i.imgur.com/kHvaLFZ.png" group-title="CANAIS 4K",SPACE 4K dual audio
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45002.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="FILMES E SERIES",SPACE SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45397.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="FILMES E SERIES",SPACE HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45396.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD " tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="FILMES E SERIES",SPACE FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45395.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE H.265 " tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="FILMES E SERIES",SPACE H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV PORTUGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/1200px-Conmebol_Libertadores_logo.svg.png" group-title="COPA LIBERTADORES",SPORT TV PORTUGAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46021.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV  ALTERNATIVO SD " tvg-logo="https://i.imgur.com/vlJvt9v.png" group-title="ESPORTES",SPORTV  ALTERNATIVO SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45279.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD " tvg-logo="https://i.imgur.com/TWp2IKt.png" group-title="ESPORTES",SPORTV 2 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45278.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD " tvg-logo="https://i.imgur.com/TWp2IKt.png" group-title="ESPORTES",SPORTV 2 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45277.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://i.imgur.com/TWp2IKt.png" group-title="ESPORTES",SPORTV 2 FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45276.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD " tvg-logo="https://i.imgur.com/AlgT8ah.png" group-title="ESPORTES",SPORTV 3 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45282.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD " tvg-logo="https://i.imgur.com/AlgT8ah.png" group-title="ESPORTES",SPORTV 3 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45281.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 FHD H.265 " tvg-logo="https://i.imgur.com/AlgT8ah.png" group-title="ESPORTES",SPORTV 3 FHD H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45280.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K" tvg-logo="https://i.imgur.com/AmI9viU.png" group-title="CANAIS 4K",SPORTV 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44994.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="SPORTV SD " tvg-logo="https://i.imgur.com/vlJvt9v.png" group-title="ESPORTES",SPORTV SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45275.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD " tvg-logo="https://i.imgur.com/vlJvt9v.png" group-title="ESPORTES",SPORTV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45274.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD  " tvg-logo="https://i.imgur.com/vlJvt9v.png" group-title="ESPORTES",SPORTV FHD  
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45273.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV FHD H.265 " tvg-logo="https://i.imgur.com/vlJvt9v.png" group-title="ESPORTES",SPORTV FHD H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45271.m3u8
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD " tvg-logo="https://img.favpng.com/17/25/8/universal-channel-television-channel-globosat-fernsehserie-png-favpng-Y8T4D3jDSXzb9Hbbj0MbtJAgn.jpg" group-title="FILMES E SERIES",STUDIO UNIVERSAL SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45410.m3u8
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD  H.265" tvg-logo="https://img.favpng.com/17/25/8/universal-channel-television-channel-globosat-fernsehserie-png-favpng-Y8T4D3jDSXzb9Hbbj0MbtJAgn.jpg" group-title="FILMES E SERIES",STUDIO UNIVERSAL FHD  H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45408.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/9AF0NWJ.png" group-title="FILMES E SERIES",SYFY SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45504.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD " tvg-logo="https://i.imgur.com/9AF0NWJ.png" group-title="FILMES E SERIES",SYFY HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45503.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FHD " tvg-logo="https://vignette.wikia.nocookie.net/thelibrarians/images/8/8e/Syfy_logo.png/" group-title="FILMES E SERIES",SYFY FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45502.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="TBS SD " tvg-logo="http://www.sidys.com.br/pacotes/img/tbs.jpg" group-title="FILMES E SERIES",TBS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45400.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="TBS HD " tvg-logo="http://www.sidys.com.br/pacotes/img/tbs.jpg" group-title="FILMES E SERIES",TBS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45399.m3u8
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://www.sidys.com.br/pacotes/img/tbs.jpg" group-title="FILMES E SERIES",TBS FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45398.m3u8
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD " tvg-logo="https://static.wixstatic.com/media/f94f49_bc08a322d3034f49a92f1c16df67fcbf~mv2.png/v1/fill/w_404,h_212,al_c,q_85,usm_0.66_1.00_0.01/f94f49_bc08a322d3034f49a92f1c16df67fcbf~mv2.webp" group-title="FILMES E SERIES",TCM SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45422.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD " tvg-logo="https://i.imgur.com/0065Rat.png" group-title="CANAIS TELECINES",TELECINE ACTION SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45329.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION  HD " tvg-logo="https://i.imgur.com/0065Rat.png" group-title="CANAIS TELECINES",TELECINE ACTION  HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45328.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://i.imgur.com/0065Rat.png" group-title="CANAIS TELECINES",TELECINE ACTION FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45327.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT FHD DUAL" tvg-logo="https://i.imgur.com/70FBaJq.png" group-title="CANAIS TELECINES",TELECINE CULT FHD DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45338.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TELECINE CULT SD " tvg-logo="https://i.imgur.com/70FBaJq.png" group-title="CANAIS TELECINES",TELECINE CULT SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45340.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD " tvg-logo="https://i.imgur.com/70FBaJq.png" group-title="CANAIS TELECINES",TELECINE CULT HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45339.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN  FHD  " tvg-logo="https://i.imgur.com/5fKua1R.png" group-title="CANAIS TELECINES",TELECINE FUN  FHD  
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45342.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD " tvg-logo="https://i.imgur.com/5fKua1R.png" group-title="CANAIS TELECINES",TELECINE FUN SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45346.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD " tvg-logo="https://i.imgur.com/5fKua1R.png" group-title="CANAIS TELECINES",TELECINE FUN HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45344.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN FHD  H.265 DUAL" tvg-logo="https://i.imgur.com/5fKua1R.png" group-title="CANAIS TELECINES",TELECINE FUN FHD  H.265 DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45341.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA  FHD " tvg-logo="https://i.imgur.com/f6vTtkx.png" group-title="CANAIS TELECINES",TELECINE PIPOCA  FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45335.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA DUAL SD" tvg-logo="https://i.imgur.com/f6vTtkx.png" group-title="CANAIS TELECINES",TELECINE PIPOCA DUAL SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45337.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD " tvg-logo="https://i.imgur.com/f6vTtkx.png" group-title="CANAIS TELECINES",TELECINE PIPOCA HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45336.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA  H.265 DUAL" tvg-logo="https://i.imgur.com/f6vTtkx.png" group-title="CANAIS TELECINES",TELECINE PIPOCA  H.265 DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45334.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM 4K " tvg-logo="https://i.imgur.com/ZyRL8Ah.png" group-title="CANAIS 4K",TELECINE PREMIUM 4K 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45004.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://i.imgur.com/ZyRL8Ah.png" group-title="CANAIS TELECINES",TELECINE PREMIUM SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45333.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD " tvg-logo="https://i.imgur.com/ZyRL8Ah.png" group-title="CANAIS TELECINES",TELECINE PREMIUM HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45332.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD " tvg-logo="https://i.imgur.com/ZyRL8Ah.png" group-title="CANAIS TELECINES",TELECINE PREMIUM FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45331.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM FHD H.265 DUAL" tvg-logo="https://i.imgur.com/ZyRL8Ah.png" group-title="CANAIS TELECINES",TELECINE PREMIUM FHD H.265 DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45330.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.imgur.com/vuCBl2j.png" group-title="CANAIS TELECINES",TELECINE TOUCH SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44663.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD " tvg-logo="https://i.imgur.com/vuCBl2j.png" group-title="CANAIS TELECINES",TELECINE TOUCH HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44768.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH FHD DUAL" tvg-logo="https://i.imgur.com/vuCBl2j.png" group-title="CANAIS TELECINES",TELECINE TOUCH FHD DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44462.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH FHD H.265 DUAL" tvg-logo="https://i.imgur.com/vuCBl2j.png" group-title="CANAIS TELECINES",TELECINE TOUCH FHD H.265 DUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TESTE CANAL MUSICAL" tvg-logo="" group-title="CANAIS TESTE",TESTE CANAL MUSICAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TESTE CANAL MUSICAL 2" tvg-logo="" group-title="CANAIS TESTE",TESTE CANAL MUSICAL 2
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TESTE FIGHTBOX USA" tvg-logo="" group-title="CANAIS TESTE",TESTE FIGHTBOX USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43224.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD " tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45514.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD " tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45513.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD " tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45512.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K dual audio" tvg-logo="https://i.imgur.com/qMVtaM9.png" group-title="CANAIS 4K",TNT 4K dual audio
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44990.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD " tvg-logo="https://1.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="FILMES E SERIES",TNT SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45403.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD " tvg-logo="https://1.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="FILMES E SERIES",TNT HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45402.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://1.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="FILMES E SERIES",TNT FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45401.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SERIES 4K" tvg-logo="https://i.imgur.com/ko6hZ8f.png" group-title="CANAIS 4K",TNT SERIES 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45000.m3u8
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SERIES",TNT SERIES SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45407.m3u8
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SERIES",TNT SERIES HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45406.m3u8
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SERIES",TNT SERIES FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45405.m3u8
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES FHD H.265" tvg-logo="https://1.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="FILMES E SERIES",TNT SERIES FHD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45404.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD " tvg-logo="https://i.imgur.com/atOLXgX.png" group-title="INFANTIL",TOONCAST SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45326.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD " tvg-logo="https://i.imgur.com/atOLXgX.png" group-title="INFANTIL",TOONCAST HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45325.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TRAVEL BOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png" group-title="VARIEDADES",TRAVEL BOX FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45531.m3u8
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV APARECIDA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/1/1e/20180918053323%21Logotipo_da_TV_Aparecida.png" group-title="RELIGIOSOS",TV APARECIDA FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43160.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA (CASCAVEL-PR)" tvg-logo="https://i.imgur.com/qDCJNJJ.png" group-title="CANAIS ABERTOS",TV CULTURA (CASCAVEL-PR)
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45430.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD " tvg-logo="https://i.imgur.com/qDCJNJJ.png" group-title="CANAIS ABERTOS",TV CULTURA SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45429.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/qDCJNJJ.png" group-title="CANAIS ABERTOS",TV CULTURA HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45428.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD " tvg-logo="https://i.imgur.com/qDCJNJJ.png" group-title="CANAIS ABERTOS",TV CULTURA FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45427.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD." tvg-logo="https://i.imgur.com/qDCJNJJ.png" group-title="CANAIS ABERTOS",TV CULTURA FHD.
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://www.padrereginaldomanzotti.org.br/wp-content/uploads/2016/12/download.jpg" group-title="RELIGIOSOS",TV EVANGELIZAR SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/29958.m3u8
+#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="TV JUSTIÇA SD" tvg-logo="http://clicktv.live/wp-content/uploads/2017/12/tv-justi%C3%A7a.png" group-title="CANAIS ABERTOS",TV JUSTIÇA SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45435.m3u8
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV NOVO TEMPO SD " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44605.m3u8
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV NOVO TEMPO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RATIBUM SD" tvg-logo="https://i.imgur.com/Xn2gHc4.png" group-title="INFANTIL",TV RATIBUM SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RATIMBUM HD " tvg-logo="https://i.imgur.com/Xn2gHc4.png" group-title="INFANTIL",TV RATIMBUM HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45321.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="TV RATIMBUM FHD " tvg-logo="https://i.imgur.com/Xn2gHc4.png" group-title="INFANTIL",TV RATIMBUM FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45320.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="TV RIO SUL HD" tvg-logo="https://i.imgur.com/q3WIRuk.png" group-title="REDE GLOBO",TV RIO SUL HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45611.m3u8
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal TV" tvg-logo="https://assets.r7.com/assets/schumi_hotsites/tv/universal/og-e1a33ef23037a422299e33c84562fe10.png" group-title="RELIGIOSOS",Universal TV
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/29999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US SPORTS" tvg-logo="https://i.imgur.com/Nf9Rddu.jpg" group-title="CANAIS U.S.A",US SPORTS
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 SD " tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="VARIEDADES",VH1 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 FHD " tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="VARIEDADES",VH1 FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45517.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD " tvg-logo="https://i.imgur.com/Y22Kk5b.png" group-title="VARIEDADES",VIVA SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45516.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD " tvg-logo="https://i.imgur.com/Y22Kk5b.png" group-title="VARIEDADES",VIVA FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45515.m3u8
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL HD " tvg-logo="https://i.imgur.com/cRbUF2b.png" group-title="FILMES E SERIES",WARNER CHANNEL HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45417.m3u8
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL FHD   " tvg-logo="https://i.imgur.com/cRbUF2b.png" group-title="FILMES E SERIES",WARNER CHANNEL FHD   
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45416.m3u8
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL FHD H.265" tvg-logo="https://i.imgur.com/cRbUF2b.png" group-title="FILMES E SERIES",WARNER CHANNEL FHD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45415.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOHOO SD" tvg-logo="https://scontent.fplu1-1.fna.fbcdn.net/v/t1.0-1/c0.0.696.696a/13238941_10153923569452713_1162070651635099354_n.jpg?_nc_cat=108&_nc_sid=dbb9e7&_nc_oc=AQltEvsYLQ5KIZ6eK3PeAzLwG7E7m9ScwTvppgvF7PXENUaoLyV9kfBi_pUwbrP7CpU&_nc_ht=scontent.fplu1-1.fna&oh=85b4bc49e17f9c519d46f177bffcf1ad&oe=5EF2C967" group-title="ESPORTES",WOHOO SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45289.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOHOO FHD" tvg-logo="https://scontent.fplu1-1.fna.fbcdn.net/v/t1.0-1/c0.0.696.696a/13238941_10153923569452713_1162070651635099354_n.jpg?_nc_cat=108&_nc_sid=dbb9e7&_nc_oc=AQltEvsYLQ5KIZ6eK3PeAzLwG7E7m9ScwTvppgvF7PXENUaoLyV9kfBi_pUwbrP7CpU&_nc_ht=scontent.fplu1-1.fna&oh=85b4bc49e17f9c519d46f177bffcf1ad&oe=5EF2C967" group-title="ESPORTES",WOHOO FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45288.m3u8
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMO HD " tvg-logo="https://i.imgur.com/y45ruLI.png" group-title="INFANTIL",ZOOMO HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45324.m3u8
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMO FHD " tvg-logo="https://i.imgur.com/y45ruLI.png" group-title="INFANTIL",ZOOMO FHD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC TV USA" tvg-logo="" group-title="CANAIS U.S.A",CNBC TV USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL USA" tvg-logo="" group-title="CANAIS U.S.A",DISCOVERY CHANNEL USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS USA" tvg-logo="" group-title="CANAIS U.S.A",DISCOVERY KIDS USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS NEWS" tvg-logo="" group-title="CANAIS U.S.A",CBS NEWS
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOICE OF AMERICA" tvg-logo="" group-title="CANAIS U.S.A",VOICE OF AMERICA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MGM SCI-FI USA" tvg-logo="" group-title="CANAIS U.S.A",MGM SCI-FI USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46190.m3u8
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NAT GEO WILD SD" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE PARAGUAY" tvg-logo="" group-title="CANAIS TESTE",EL TRECE PARAGUAY
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 ARGENTINA" tvg-logo="" group-title="CANAIS TESTE",CANAL 26 ARGENTINA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46385.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA ESPANHA" tvg-logo="" group-title="CANAIS TESTE",LA SEXTA ESPANHA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS INGLATERRA" tvg-logo="" group-title="CANAIS TESTE",SKY NEWS INGLATERRA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS EXTRA AUSTRALIA" tvg-logo="" group-title="CANAIS TESTE",SKY NEWS EXTRA AUSTRALIA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUPER ROCK TV" tvg-logo="" group-title="VARIEDADES",SUPER ROCK TV
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/47012.m3u8
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="CANCAO NOVA SD1" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcancaonova.png" group-title="RELIGIOSOS",CANCAO NOVA SD1
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/47018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ADORAÇÃO PERPETUA" tvg-logo="" group-title="RELIGIOSOS",ADORAÇÃO PERPETUA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/47019.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="alter VIVA FHD H265" tvg-logo="http://grupobrtv.com/logos/vivahd.png" group-title="VARIEDADES",alter VIVA FHD H265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/48051.m3u8
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="alter WARNER CHANNEL FHD H265" tvg-logo="http://grupobrtv.com/logos/warnerchannelhd.png" group-title="FILMES E SERIES",alter WARNER CHANNEL FHD H265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/48057.m3u8
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="alter VH1 MEGA HITS FHD H265" tvg-logo="http://grupobrtv.com/logos/vh1megahits.png" group-title="VARIEDADES",alter VH1 MEGA HITS FHD H265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/48047.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="alter TELECINE TOUCH FHD H265" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="CANAIS TELECINES",alter TELECINE TOUCH FHD H265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/48004.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="alter TELECINE PREMIUM FHD H265" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="CANAIS TELECINES",alter TELECINE PREMIUM FHD H265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/47998.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="alter TELECINE  PIPOCA FHD H265" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="CANAIS TELECINES",alter TELECINE  PIPOCA FHD H265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/47992.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="alter TELECINE  FUN FHD H265" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="CANAIS TELECINES",alter TELECINE  FUN FHD H265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/47986.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="alter TELECINE  CULT FHD H265" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="CANAIS TELECINES",alter TELECINE  CULT FHD H265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/47982.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="alter TELECINE  ACTION FHD H265" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="CANAIS TELECINES",alter TELECINE  ACTION FHD H265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/47976.m3u8
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="alter TCM FHD H265" tvg-logo="http://grupobrtv.com/logos/tcm.png" group-title="FILMES E SERIES",alter TCM FHD H265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/47972.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="alter SPORT TV 3 HD" tvg-logo="" group-title="ESPORTES",alter SPORT TV 3 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/48101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H Amadoras" tvg-logo="https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/81143394_1073981662956957_7950617073930241125_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=mGNSwM9YYz4AX83PUAw&oh=44f28883565aa21f66fd718414b57a4c&oe=5ED0B07B" group-title="CANAIS ADULTOS",24H Amadoras
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/21526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H Suruba Caseira" tvg-logo="https://jaenegocio.com/oc-content/uploads/2/369.png" group-title="CANAIS ADULTOS",24H Suruba Caseira
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/24667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H A Casa Das Brasileirinhas" tvg-logo="https://i.imgur.com/rXKuy67.png" group-title="CANAIS ADULTOS",24H A Casa Das Brasileirinhas
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/24708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H BISEXUAL" tvg-logo="https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/81143394_1073981662956957_7950617073930241125_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=mGNSwM9YYz4AX83PUAw&oh=44f28883565aa21f66fd718414b57a4c&oe=5ED0B07B" group-title="CANAIS ADULTOS",24H BISEXUAL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/25641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H SEXO NA PRAIA" tvg-logo="https://jaenegocio.com/oc-content/uploads/2/369.png" group-title="CANAIS ADULTOS",24H SEXO NA PRAIA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/25801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANDY TV" tvg-logo="https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/81143394_1073981662956957_7950617073930241125_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=mGNSwM9YYz4AX83PUAw&oh=44f28883565aa21f66fd718414b57a4c&oe=5ED0B07B" group-title="CANAIS ADULTOS",CANDY TV
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/29961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H Gordinhas" tvg-logo="https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/81143394_1073981662956957_7950617073930241125_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=mGNSwM9YYz4AX83PUAw&oh=44f28883565aa21f66fd718414b57a4c&oe=5ED0B07B" group-title="CANAIS ADULTOS",24H Gordinhas
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/35571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H Travestis" tvg-logo="https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/81143394_1073981662956957_7950617073930241125_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=mGNSwM9YYz4AX83PUAw&oh=44f28883565aa21f66fd718414b57a4c&oe=5ED0B07B" group-title="CANAIS ADULTOS",24H Travestis
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/39503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H Ruivas" tvg-logo="https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/81143394_1073981662956957_7950617073930241125_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=mGNSwM9YYz4AX83PUAw&oh=44f28883565aa21f66fd718414b57a4c&oe=5ED0B07B" group-title="CANAIS ADULTOS",24H Ruivas
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/40911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H Gay" tvg-logo="https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/81143394_1073981662956957_7950617073930241125_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=mGNSwM9YYz4AX83PUAw&oh=44f28883565aa21f66fd718414b57a4c&oe=5ED0B07B" group-title="CANAIS ADULTOS",24H Gay
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/21525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX Sexo a Domicilio" tvg-logo="https://i.imgur.com/s2qRK08.jpg?1" group-title="FILMES PORNOCHANCHADAS",XXX Sexo a Domicilio
+http://srvsamu.xyz:80/movie/ChuckModBrasil/Samurai/29989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CINE ADULTO" tvg-logo="https://taligram.org/assets/telegram-channels/cinema-adulto-4107.jpg" group-title="CANAIS ADULTOS",CINE ADULTO
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROGIRLS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1xshC81KUwFFiNnh63-SeLwWcWRtPIF6WNy2PlYPVoW1I55jQ" group-title="CANAIS ADULTOS",EUROGIRLS
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PORNO 24H" tvg-logo="https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/81143394_1073981662956957_7950617073930241125_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=mGNSwM9YYz4AX83PUAw&oh=44f28883565aa21f66fd718414b57a4c&oe=5ED0B07B" group-title="CANAIS ADULTOS",PORNO 24H
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREAM HD " tvg-logo="https://www.nicepng.com/png/full/972-9721467_1-tvg-logo-http-sextreme-tv.png" group-title="CANAIS ADULTOS",SEXTREAM HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png" group-title="CANAIS ADULTOS",SEXY HOT HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME SD " tvg-logo="https://www.nicepng.com/png/full/972-9721467_1-tvg-logo-http-sextreme-tv.png" group-title="CANAIS ADULTOS",SEXTREME SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD" tvg-logo="https://cms.forward-festival.com/wp-content/uploads/2017/09/playboy-logo-simple.jpg" group-title="CANAIS ADULTOS",PLAYBOY FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD " tvg-logo="https://cms.forward-festival.com/wp-content/uploads/2017/09/playboy-logo-simple.jpg" group-title="CANAIS ADULTOS",PLAYBOY SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY HD " tvg-logo="https://cms.forward-festival.com/wp-content/uploads/2017/09/playboy-logo-simple.jpg" group-title="CANAIS ADULTOS",PLAYBOY HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VENUS HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="CANAIS ADULTOS",VENUS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VENUS SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="CANAIS ADULTOS",VENUS SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VENUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="CANAIS ADULTOS",VENUS FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT FHD  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png" group-title="CANAIS ADULTOS",SEXY HOT FHD  
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44502.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="PORNO 4K" tvg-logo="https://static10.tgstat.ru/channels/_0/46/468fb7cf3ec266d03421effa9df0d075.jpg" group-title="CANAIS ADULTOS",PORNO 4K
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURAL FHD" tvg-logo="" group-title="CANAIS ADULTOS",LOVE NATURAL FHD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PORN CHANNEL 02" tvg-logo="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/3050e6d4-44d4-401f-967a-a0905f8784cb_t260x260.jpg" group-title="CANAIS ADULTOS",PORN CHANNEL 02
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HUSTLER" tvg-logo="https://cdn.mitvstatic.com/channels/br_hustler-tv_m.png" group-title="CANAIS ADULTOS",HUSTLER
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DORCEL" tvg-logo="https://lh3.googleusercontent.com/proxy/aEI1T1rB0tVPQA5zl3owxoR4ldnpugsj6xZ_EWNIn5rRNxwpPaQE40yrVDFLDcB6knUr7QXGjypRk6zhSn_MzaSzMOpjCASIug" group-title="CANAIS ADULTOS",DORCEL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE" tvg-logo="" group-title="CANAIS ADULTOS",PRIVATE
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46211.m3u8
+#EXTINF:-1 tvg-id="playtv.br" tvg-name="PLAY TV SD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" group-title="VARIEDADES",PLAY TV SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE " tvg-logo="" group-title="CANAIS ADULTOS",PENTHOUSE 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo-1.png" group-title="CANAIS ADULTOS",BRAZZERS
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARODY" tvg-logo="" group-title="CANAIS ADULTOS",PARODY
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDLIGHT" tvg-logo="" group-title="CANAIS ADULTOS",REDLIGHT
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHEMALE CHANNEL" tvg-logo="" group-title="CANAIS ADULTOS",SHEMALE CHANNEL
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GIRLS AND BOYS" tvg-logo="" group-title="CANAIS ADULTOS",GIRLS AND BOYS
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/46390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY EUROPE" tvg-logo="" group-title="CANAIS ADULTOS",PLAYBOY EUROPE
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/47016.m3u8
