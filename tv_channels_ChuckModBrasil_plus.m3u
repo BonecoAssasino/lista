@@ -1,0 +1,271 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://quinto-canal.com/wp-content/uploads/2017/03/Canal-AE.png" group-title="FILMES E SERIES",A&E HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45345.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD*" tvg-logo="https://quinto-canal.com/wp-content/uploads/2017/03/Canal-AE.png" group-title="FILMES E SERIES",A&E HD*
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45347.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD " tvg-logo="https://spinoff.com.br/wp-content/uploads/AMC_logo_20131.png" group-title="FILMES E SERIES",AMC HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45350.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45208.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD " tvg-logo="https://i.imgur.com/ZIoEeMr.png" group-title="VARIEDADES",ARTE 1 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45471.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Axn.png" group-title="FILMES E SERIES",AXN HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45353.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD " tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="CANAIS ABERTOS",BAND HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45411.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD " tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="NOTICIAS",BAND NEWS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45371.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD " tvg-logo="https://i.imgur.com/bvRubp2.png" group-title="ESPORTES",BAND SPORTS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 TELA 1" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB 20 TELA 1
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10 HD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 10 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10 SD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 10 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3 HD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 3 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3 SD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 3 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4 HD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 4 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4 SD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 4 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5 HD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 5 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5 SD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 5 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6 HD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 6 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6 SD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 6 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7 HD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 7 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7 SD " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 7 SD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8 HD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 8 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8 SD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 8 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9 HD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 9 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9 SD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB CAM 9 SD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="BIG BROTHER  2020",BBB MOSAICO 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS HD USA" tvg-logo="https://archive.org/services/img/BeinSportsUsaHd" group-title="CANAIS U.S.A",BEINSPORTS HD USA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/43226.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD " tvg-logo="https://danceparadise.com.br/wp-content/uploads/2019/02/logo-bis-300.png" group-title="VARIEDADES",BIS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45444.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMBERANG HD " tvg-logo="https://i.imgur.com/lpSxAIj.png" group-title="INFANTIL",BOOMBERANG HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE HD " tvg-logo="https://i.imgur.com/vODNdGa.png" group-title="ESPORTES",CAMPEONATO CATARINENSE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45383.m3u8
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD " tvg-logo="https://i.imgur.com/G3xv8ol.png" group-title="CANAIS ABERTOS",CANAL BRASIL HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45424.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD " tvg-logo="https://i.imgur.com/7zOGhVI.png" group-title="FILMES E SERIES",CANAL SONY HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45497.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON HD " tvg-logo="https://i.imgur.com/yyLYPZx.png" group-title="INFANTIL",CARTOON HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45309.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD " tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="CANAIS HBO MAX",CINEMAX HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45506.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD " tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES",COMBATE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45249.m3u8
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD " tvg-logo="https://i.imgur.com/RuFpZ2G.png" group-title="VARIEDADES",COMEDY CENTRAL HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD " tvg-logo="https://i.imgur.com/ZUthoai.png" group-title="ESPORTES",COPA DO NORDESTE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD " tvg-logo="https://i.imgur.com/yUXYVQx.jpg" group-title="ESPORTES",DAZN HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45376.m3u8
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45212.m3u8
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H HD " tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="DOCUMENTÁRIOS",DISCOVERY H&H HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45225.m3u8
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD " tvg-logo="https://i.imgur.com/Pv4zEEU.png" group-title="INFANTIL",DISCOVERY KIDS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45297.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD " tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45485.m3u8
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD " tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45218.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD " tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45215.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD " tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45220.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD " tvg-logo="https://i.imgur.com/CmpWFRp.png" group-title="INFANTIL",DISNEY CHANNEL HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45300.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JR HD " tvg-logo="https://i.imgur.com/kFxCvdV.png" group-title="INFANTIL",DISNEY JR HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45303.m3u8
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="DISNEY XD HD " tvg-logo="https://i.imgur.com/L9ej6r1.png" group-title="INFANTIL",DISNEY XD HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45306.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="DOG TV HD " tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="DOCUMENTÁRIOS",DOG TV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45243.m3u8
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN  BRASIL HD " tvg-logo="https://i.imgur.com/cKIxu3s.png" group-title="ESPORTES",ESPN  BRASIL HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45259.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD " tvg-logo="https://i.imgur.com/86QLvF9.png" group-title="ESPORTES",ESPN 2 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45256.m3u8
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD " tvg-logo="https://i.imgur.com/vPzmOkP.png" group-title="ESPORTES",ESPN EXTRA HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45262.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD " tvg-logo="https://i.imgur.com/VlyX9nW.png" group-title="ESPORTES",ESPN HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45253.m3u8
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/230px-FashionTV2019novo.png" group-title="VARIEDADES",FASHION TV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45526.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH HD " tvg-logo="https://i.imgur.com/knViQD5.png" group-title="ESPORTES",FISH HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45284.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD " tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45453.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="FOX HD" tvg-logo="https://imagem.natelinha.uol.com.br/grande/fox-logo_c39fc1d630b222a3afc46eeff6daccbe7e543943.jpeg" group-title="FILMES E SERIES",FOX HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45356.m3u8
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="FOX LIFE HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="FILMES E SERIES",FOX LIFE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45359.m3u8
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/17/04/27/22/03/450031.jpg" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45363.m3u8
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 1 HD H.265 " tvg-logo="http://br.web.img3.acsta.net/r_640_360/newsv7/17/04/27/22/03/450031.jpg" group-title="FILMES E SERIES",FOX PREMIUM 1 HD H.265 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45367.m3u8
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 HD " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium2b.png" group-title="FILMES E SERIES",FOX PREMIUM 2 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45374.m3u8
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 HD H.265" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium2b.png" group-title="FILMES E SERIES",FOX PREMIUM 2 HD H.265
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45373.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS HD " tvg-logo="https://i.imgur.com/0SvE6z8.png" group-title="ESPORTES",FOX SPORTS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45266.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://bengarney.files.wordpress.com/2008/12/fx1.png?w=300&h=300" group-title="FILMES E SERIES",FX HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45379.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GAZETA HD " tvg-logo="https://i.imgur.com/hD0K0eB.png" group-title="REDE GLOBO",GAZETA HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45574.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BAHIA" tvg-logo="https://i.imgur.com/1LSjbHj.png" group-title="REDE GLOBO",GLOBO BAHIA
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45622.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA HD " tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",GLOBO BRASILIA HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45582.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO HD SP" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO HD SP
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44686.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MATO GROSSO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/77/Logotipo_da_TV_Centro_Am%C3%A9rica.png" group-title="REDE GLOBO",GLOBO MATO GROSSO HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45593.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.imgur.com/p7B35hb.png" group-title="REDE GLOBO",GLOBO MINAS HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45565.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS HD¹" tvg-logo="https://i.imgur.com/p7B35hb.png" group-title="REDE GLOBO",GLOBO MINAS HD¹
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45564.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD " tvg-logo="https://i.imgur.com/jV9A1JT.png" group-title="NOTICIAS",GLOBO NEWS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45366.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="https://i.imgur.com/VDkKhvy.png" group-title="REDE GLOBO",GLOBO NSC FLORIANOPOLIS HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45597.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS HD" tvg-logo="https://i.imgur.com/vCyshro.png" group-title="REDE GLOBO",GLOBO RBS HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45595.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC TV CURITIBA HD " tvg-logo="https://i.imgur.com/bgdxVGf.png" group-title="REDE GLOBO",GLOBO RPC TV CURITIBA HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45576.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO SP HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44558.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png" group-title="REDE GLOBO",GLOBO TV MIRANTE HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45592.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",GLOBO VERDES MARES HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45569.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="GLOBO VERDES MARES HD¹" tvg-logo="https://i.imgur.com/WkYpG3T.png" group-title="REDE GLOBO",GLOBO VERDES MARES HD¹
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45568.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD " tvg-logo="https://i.imgur.com/tb8cPTA.png" group-title="INFANTIL",GLOOB HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45312.m3u8
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="DOCUMENTÁRIOS",H2 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45234.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO  HD " tvg-logo="https://i.imgur.com/dgH054u.png" group-title="CANAIS HBO MAX",HBO  HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44740.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD " tvg-logo="https://i.imgur.com/sPbcIgM.png" group-title="CANAIS HBO MAX",HBO 2 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45533.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/WVJ6BAQ.png" group-title="CANAIS HBO MAX",HBO FAMILY HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45523.m3u8
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS HD " tvg-logo="https://i.imgur.com/UNf6ksP.png" group-title="CANAIS HBO MAX",HBO PLUS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45544.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD " tvg-logo="https://i.imgur.com/fxfMW8o.png" group-title="CANAIS HBO MAX",HBO SIGNATURE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45540.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO XTREME HD" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="CANAIS HBO MAX",HBO XTREME HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45547.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY HD " tvg-logo="https://i.imgur.com/YbCQmxQ.png" group-title="DOCUMENTÁRIOS",HISTORY HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45231.m3u8
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID HD " tvg-logo="https://i.imgur.com/qQC3Tpc.png" group-title="DOCUMENTÁRIOS",ID HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45228.m3u8
+#EXTINF:-1 tvg-id="maxprimee.br" tvg-name="MAX PRIME HD" tvg-logo="https://i.imgur.com/Mbk7L7K.png" group-title="CANAIS HBO MAX",MAX PRIME HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45492.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD " tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/08/megapix-acao-facebook-960x556.png" group-title="FILMES E SERIES",MEGAPIX HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIAMI TV HD " tvg-logo="" group-title="VARIEDADES",MIAMI TV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45539.m3u8
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD " tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/mtv-brasil-1-logo-png-transparent.png" group-title="VARIEDADES",MTV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45468.m3u8
+#EXTINF:-1 tvg-id="mtvlive.br" tvg-name="MTV LIVE HD " tvg-logo="https://i.imgur.com/42x9a33.png" group-title="VARIEDADES",MTV LIVE HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45465.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTÁRIOS",NATGEO HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45237.m3u8
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NATGEO KIDS HD " tvg-logo="https://i.imgur.com/dNJldV5.png" group-title="INFANTIL",NATGEO KIDS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45318.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO WILD HD " tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTÁRIOS",NATGEO WILD HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD HD " tvg-logo="https://www.jibtv.com/assets/img/nhk/bnr_world.png" group-title="VARIEDADES",NHK WORLD HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45392.m3u8
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK  JR HD " tvg-logo="https://i.imgur.com/mSxkyPK.png" group-title="INFANTIL",NICK  JR HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45291.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON HD " tvg-logo="https://i.imgur.com/aoH6AnI.png" group-title="INFANTIL",NICKELODEON HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45294.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="FILMES E SERIES",PARAMOUNT HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45389.m3u8
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIER 4 HD " tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER 4 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45474.m3u8
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIER 5 HD" tvg-logo="https://i.imgur.com/B41f3Ol.png" group-title="PREMIERES",PREMIER 5 HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45477.m3u8
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIER 6 HD " tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER 6 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45480.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIER HD 2." tvg-logo="https://i.imgur.com/6htQnHL.png" group-title="PREMIERES",PREMIER HD 2.
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45458.m3u8
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIER HD 3 ." tvg-logo="https://i.imgur.com/B41f3Ol.png" group-title="PREMIERES",PREMIER HD 3 .
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45464.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES HD " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/premiere-1-1.jpeg" group-title="PREMIERES",PREMIERE CLUBES HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45446.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD PR HD" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="CANAIS ABERTOS",RECORD PR HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/31587.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RJ HD²" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="CANAIS ABERTOS",RECORD RJ HD²
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44820.m3u8
+#EXTINF:-1 tvg-id="Record RJ HD" tvg-name="RECORD SP HD" tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="CANAIS ABERTOS",RECORD SP HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/38004.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD " tvg-logo="https://i.imgur.com/Px7FeLP.png" group-title="CANAIS ABERTOS",REDE TV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45432.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD " tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT SP HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45419.m3u8
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME HD " tvg-logo="https://images-shoptime.b2w.io/spacey/2019/05/06/logo_shoptime_250x250.png" group-title="VARIEDADES",SHOPTIME HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45520.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png" group-title="FILMES E SERIES",SPACE HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45396.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD " tvg-logo="https://i.imgur.com/TWp2IKt.png" group-title="ESPORTES",SPORTV 2 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45277.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD " tvg-logo="https://i.imgur.com/AlgT8ah.png" group-title="ESPORTES",SPORTV 3 HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45281.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD " tvg-logo="https://i.imgur.com/vlJvt9v.png" group-title="ESPORTES",SPORTV HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45274.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD " tvg-logo="https://i.imgur.com/9AF0NWJ.png" group-title="FILMES E SERIES",SYFY HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45503.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="TBS HD " tvg-logo="http://www.sidys.com.br/pacotes/img/tbs.jpg" group-title="FILMES E SERIES",TBS HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45399.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION  HD " tvg-logo="https://i.imgur.com/0065Rat.png" group-title="CANAIS TELECINES",TELECINE ACTION  HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45328.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD " tvg-logo="https://i.imgur.com/70FBaJq.png" group-title="CANAIS TELECINES",TELECINE CULT HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45339.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD " tvg-logo="https://i.imgur.com/5fKua1R.png" group-title="CANAIS TELECINES",TELECINE FUN HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45344.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD " tvg-logo="https://i.imgur.com/f6vTtkx.png" group-title="CANAIS TELECINES",TELECINE PIPOCA HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45336.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD " tvg-logo="https://i.imgur.com/ZyRL8Ah.png" group-title="CANAIS TELECINES",TELECINE PREMIUM HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45332.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD " tvg-logo="https://i.imgur.com/vuCBl2j.png" group-title="CANAIS TELECINES",TELECINE TOUCH HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/44768.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD " tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45513.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD " tvg-logo="https://1.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="FILMES E SERIES",TNT HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45402.m3u8
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FILMES E SERIES",TNT SERIES HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45406.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD " tvg-logo="https://i.imgur.com/atOLXgX.png" group-title="INFANTIL",TOONCAST HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45325.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/qDCJNJJ.png" group-title="CANAIS ABERTOS",TV CULTURA HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV RATIMBUM HD " tvg-logo="https://i.imgur.com/Xn2gHc4.png" group-title="INFANTIL",TV RATIMBUM HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45321.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="TV RIO SUL HD" tvg-logo="https://i.imgur.com/q3WIRuk.png" group-title="REDE GLOBO",TV RIO SUL HD
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45611.m3u8
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL HD " tvg-logo="https://i.imgur.com/cRbUF2b.png" group-title="FILMES E SERIES",WARNER CHANNEL HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45417.m3u8
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMO HD " tvg-logo="https://i.imgur.com/y45ruLI.png" group-title="INFANTIL",ZOOMO HD 
+http://srvsamu.xyz:80/live/ChuckModBrasil/Samurai/45324.m3u8
