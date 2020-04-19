@@ -1,0 +1,1 @@
+{ "showMessage":"true", "Message":"📢 Sistema EPG em Manutenção! Canais  OK✔️🛠️ Suporte Diferenciado é Aqui!🛠️ [By B4N3]", "duration":"21" }
